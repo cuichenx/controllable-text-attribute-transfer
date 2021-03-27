@@ -1,0 +1,803 @@
+[2021-03-27 15:05:25]: Path: save/1616871925/ is created
+[2021-03-27 15:05:27]: Start train process.
+[2021-03-27 15:05:27]: | epoch   0 |     0/  406 batches | rec loss 7.3530 | dis loss 0.7715 |
+[2021-03-27 15:05:35]: | epoch   0 |   200/  406 batches | rec loss 4.7667 | dis loss 0.7002 |
+[2021-03-27 15:05:43]: | epoch   0 |   400/  406 batches | rec loss 3.6641 | dis loss 0.6523 |
+[2021-03-27 15:05:44]: | end of epoch   0 | time: 16.53s |
+[2021-03-27 15:05:44]: | epoch   1 |     0/  406 batches | rec loss 3.6688 | dis loss 0.7232 |
+[2021-03-27 15:05:52]: | epoch   1 |   200/  406 batches | rec loss 3.3328 | dis loss 0.6894 |
+[2021-03-27 15:06:00]: | epoch   1 |   400/  406 batches | rec loss 2.8232 | dis loss 0.6440 |
+[2021-03-27 15:06:00]: | end of epoch   1 | time: 16.49s |
+[2021-03-27 15:06:01]: | epoch   2 |     0/  406 batches | rec loss 2.7636 | dis loss 0.7260 |
+[2021-03-27 15:06:09]: | epoch   2 |   200/  406 batches | rec loss 2.6587 | dis loss 0.7081 |
+[2021-03-27 15:06:16]: | epoch   2 |   400/  406 batches | rec loss 2.2924 | dis loss 0.6126 |
+[2021-03-27 15:06:17]: | end of epoch   2 | time: 16.34s |
+[2021-03-27 15:06:17]: | epoch   3 |     0/  406 batches | rec loss 2.2769 | dis loss 0.7035 |
+[2021-03-27 15:06:25]: | epoch   3 |   200/  406 batches | rec loss 2.2459 | dis loss 0.7635 |
+[2021-03-27 15:06:33]: | epoch   3 |   400/  406 batches | rec loss 2.0479 | dis loss 0.5736 |
+[2021-03-27 15:06:33]: | end of epoch   3 | time: 16.31s |
+[2021-03-27 15:06:34]: | epoch   4 |     0/  406 batches | rec loss 1.9790 | dis loss 0.6846 |
+[2021-03-27 15:06:42]: | epoch   4 |   200/  406 batches | rec loss 1.9967 | dis loss 0.7402 |
+[2021-03-27 15:06:49]: | epoch   4 |   400/  406 batches | rec loss 1.8503 | dis loss 0.6064 |
+[2021-03-27 15:06:50]: | end of epoch   4 | time: 16.32s |
+[2021-03-27 15:06:50]: | epoch   5 |     0/  406 batches | rec loss 1.7189 | dis loss 0.6419 |
+[2021-03-27 15:06:58]: | epoch   5 |   200/  406 batches | rec loss 1.8704 | dis loss 0.6759 |
+[2021-03-27 15:07:06]: | epoch   5 |   400/  406 batches | rec loss 1.5969 | dis loss 0.6065 |
+[2021-03-27 15:07:07]: | end of epoch   5 | time: 16.51s |
+[2021-03-27 15:07:07]: | epoch   6 |     0/  406 batches | rec loss 1.5754 | dis loss 0.6381 |
+[2021-03-27 15:07:15]: | epoch   6 |   200/  406 batches | rec loss 1.5452 | dis loss 0.7151 |
+[2021-03-27 15:07:23]: | epoch   6 |   400/  406 batches | rec loss 1.4464 | dis loss 0.5742 |
+[2021-03-27 15:07:24]: | end of epoch   6 | time: 16.56s |
+[2021-03-27 15:07:24]: | epoch   7 |     0/  406 batches | rec loss 1.3996 | dis loss 0.6842 |
+[2021-03-27 15:07:32]: | epoch   7 |   200/  406 batches | rec loss 1.4615 | dis loss 0.7331 |
+[2021-03-27 15:07:40]: | epoch   7 |   400/  406 batches | rec loss 1.2380 | dis loss 0.5789 |
+[2021-03-27 15:07:40]: | end of epoch   7 | time: 16.60s |
+[2021-03-27 15:07:41]: | epoch   8 |     0/  406 batches | rec loss 1.2042 | dis loss 0.6992 |
+[2021-03-27 15:07:49]: | epoch   8 |   200/  406 batches | rec loss 1.2430 | dis loss 0.7179 |
+[2021-03-27 15:07:57]: | epoch   8 |   400/  406 batches | rec loss 1.1931 | dis loss 0.5425 |
+[2021-03-27 15:07:57]: | end of epoch   8 | time: 16.48s |
+[2021-03-27 15:07:57]: | epoch   9 |     0/  406 batches | rec loss 1.1283 | dis loss 0.6430 |
+[2021-03-27 15:08:05]: | epoch   9 |   200/  406 batches | rec loss 1.1847 | dis loss 0.6693 |
+[2021-03-27 15:08:13]: | epoch   9 |   400/  406 batches | rec loss 1.0432 | dis loss 0.5875 |
+[2021-03-27 15:08:14]: | end of epoch   9 | time: 16.22s |
+[2021-03-27 15:08:14]: | epoch  10 |     0/  406 batches | rec loss 1.0527 | dis loss 0.6481 |
+[2021-03-27 15:08:22]: | epoch  10 |   200/  406 batches | rec loss 1.0934 | dis loss 0.6831 |
+[2021-03-27 15:08:30]: | epoch  10 |   400/  406 batches | rec loss 0.9916 | dis loss 0.6169 |
+[2021-03-27 15:08:30]: | end of epoch  10 | time: 16.46s |
+[2021-03-27 15:08:31]: | epoch  11 |     0/  406 batches | rec loss 0.9672 | dis loss 0.6590 |
+[2021-03-27 15:08:39]: | epoch  11 |   200/  406 batches | rec loss 1.0798 | dis loss 0.6952 |
+[2021-03-27 15:08:47]: | epoch  11 |   400/  406 batches | rec loss 0.8913 | dis loss 0.6056 |
+[2021-03-27 15:08:47]: | end of epoch  11 | time: 16.55s |
+[2021-03-27 15:08:48]: | epoch  12 |     0/  406 batches | rec loss 0.9613 | dis loss 0.6224 |
+[2021-03-27 15:08:56]: | epoch  12 |   200/  406 batches | rec loss 0.9785 | dis loss 0.6766 |
+[2021-03-27 15:09:03]: | epoch  12 |   400/  406 batches | rec loss 0.8767 | dis loss 0.6143 |
+[2021-03-27 15:09:04]: | end of epoch  12 | time: 16.54s |
+[2021-03-27 15:09:04]: | epoch  13 |     0/  406 batches | rec loss 0.9260 | dis loss 0.6648 |
+[2021-03-27 15:09:12]: | epoch  13 |   200/  406 batches | rec loss 0.9169 | dis loss 0.7039 |
+[2021-03-27 15:09:20]: | epoch  13 |   400/  406 batches | rec loss 0.8309 | dis loss 0.6161 |
+[2021-03-27 15:09:21]: | end of epoch  13 | time: 16.53s |
+[2021-03-27 15:09:21]: | epoch  14 |     0/  406 batches | rec loss 0.8303 | dis loss 0.6565 |
+[2021-03-27 15:09:29]: | epoch  14 |   200/  406 batches | rec loss 0.8607 | dis loss 0.6662 |
+[2021-03-27 15:09:37]: | epoch  14 |   400/  406 batches | rec loss 0.8079 | dis loss 0.6023 |
+[2021-03-27 15:09:37]: | end of epoch  14 | time: 16.50s |
+[2021-03-27 15:09:38]: | epoch  15 |     0/  406 batches | rec loss 0.8060 | dis loss 0.6644 |
+[2021-03-27 15:09:46]: | epoch  15 |   200/  406 batches | rec loss 0.8216 | dis loss 0.6362 |
+[2021-03-27 15:09:54]: | epoch  15 |   400/  406 batches | rec loss 0.7587 | dis loss 0.6055 |
+[2021-03-27 15:09:54]: | end of epoch  15 | time: 16.47s |
+[2021-03-27 15:09:55]: | epoch  16 |     0/  406 batches | rec loss 0.7724 | dis loss 0.6546 |
+[2021-03-27 15:10:03]: | epoch  16 |   200/  406 batches | rec loss 0.8209 | dis loss 0.6355 |
+[2021-03-27 15:10:11]: | epoch  16 |   400/  406 batches | rec loss 0.7576 | dis loss 0.6029 |
+[2021-03-27 15:10:11]: | end of epoch  16 | time: 16.44s |
+[2021-03-27 15:10:11]: | epoch  17 |     0/  406 batches | rec loss 0.6976 | dis loss 0.5986 |
+[2021-03-27 15:10:19]: | epoch  17 |   200/  406 batches | rec loss 0.7381 | dis loss 0.6460 |
+[2021-03-27 15:10:27]: | epoch  17 |   400/  406 batches | rec loss 0.6968 | dis loss 0.6130 |
+[2021-03-27 15:10:28]: | end of epoch  17 | time: 16.29s |
+[2021-03-27 15:10:28]: | epoch  18 |     0/  406 batches | rec loss 0.7051 | dis loss 0.6024 |
+[2021-03-27 15:10:36]: | epoch  18 |   200/  406 batches | rec loss 0.7022 | dis loss 0.6830 |
+[2021-03-27 15:10:45]: | epoch  18 |   400/  406 batches | rec loss 0.6237 | dis loss 0.6172 |
+[2021-03-27 15:10:45]: | end of epoch  18 | time: 17.37s |
+[2021-03-27 15:10:46]: | epoch  19 |     0/  406 batches | rec loss 0.6740 | dis loss 0.6497 |
+[2021-03-27 15:10:54]: | epoch  19 |   200/  406 batches | rec loss 0.7182 | dis loss 0.6789 |
+[2021-03-27 15:11:03]: | epoch  19 |   400/  406 batches | rec loss 0.6054 | dis loss 0.5827 |
+[2021-03-27 15:11:03]: | end of epoch  19 | time: 17.68s |
+[2021-03-27 15:11:03]: | epoch  20 |     0/  406 batches | rec loss 0.6343 | dis loss 0.5699 |
+[2021-03-27 15:11:12]: | epoch  20 |   200/  406 batches | rec loss 0.6504 | dis loss 0.6569 |
+[2021-03-27 15:11:20]: | epoch  20 |   400/  406 batches | rec loss 0.5788 | dis loss 0.5975 |
+[2021-03-27 15:11:21]: | end of epoch  20 | time: 17.64s |
+[2021-03-27 15:11:22]: | epoch  21 |     0/  406 batches | rec loss 0.6056 | dis loss 0.6055 |
+[2021-03-27 15:11:30]: | epoch  21 |   200/  406 batches | rec loss 0.6260 | dis loss 0.6571 |
+[2021-03-27 15:11:38]: | epoch  21 |   400/  406 batches | rec loss 0.5672 | dis loss 0.6047 |
+[2021-03-27 15:11:39]: | end of epoch  21 | time: 17.62s |
+[2021-03-27 15:11:40]: | epoch  22 |     0/  406 batches | rec loss 0.5515 | dis loss 0.6023 |
+[2021-03-27 15:11:48]: | epoch  22 |   200/  406 batches | rec loss 0.6143 | dis loss 0.6545 |
+[2021-03-27 15:11:57]: | epoch  22 |   400/  406 batches | rec loss 0.5380 | dis loss 0.5850 |
+[2021-03-27 15:11:57]: | end of epoch  22 | time: 17.66s |
+[2021-03-27 15:11:57]: | epoch  23 |     0/  406 batches | rec loss 0.5579 | dis loss 0.5998 |
+[2021-03-27 15:12:06]: | epoch  23 |   200/  406 batches | rec loss 0.5775 | dis loss 0.6540 |
+[2021-03-27 15:12:14]: | epoch  23 |   400/  406 batches | rec loss 0.5974 | dis loss 0.5755 |
+[2021-03-27 15:12:15]: | end of epoch  23 | time: 17.63s |
+[2021-03-27 15:12:15]: | epoch  24 |     0/  406 batches | rec loss 0.6049 | dis loss 0.5880 |
+[2021-03-27 15:12:24]: | epoch  24 |   200/  406 batches | rec loss 0.6100 | dis loss 0.6137 |
+[2021-03-27 15:12:32]: | epoch  24 |   400/  406 batches | rec loss 0.5335 | dis loss 0.6097 |
+[2021-03-27 15:12:33]: | end of epoch  24 | time: 17.65s |
+[2021-03-27 15:12:33]: | epoch  25 |     0/  406 batches | rec loss 0.5473 | dis loss 0.5755 |
+[2021-03-27 15:12:42]: | epoch  25 |   200/  406 batches | rec loss 0.5677 | dis loss 0.6518 |
+[2021-03-27 15:12:50]: | epoch  25 |   400/  406 batches | rec loss 0.5086 | dis loss 0.6058 |
+[2021-03-27 15:12:51]: | end of epoch  25 | time: 17.61s |
+[2021-03-27 15:12:51]: | epoch  26 |     0/  406 batches | rec loss 0.5245 | dis loss 0.5769 |
+[2021-03-27 15:13:00]: | epoch  26 |   200/  406 batches | rec loss 0.5841 | dis loss 0.6504 |
+[2021-03-27 15:13:08]: | epoch  26 |   400/  406 batches | rec loss 0.5229 | dis loss 0.6047 |
+[2021-03-27 15:13:09]: | end of epoch  26 | time: 17.64s |
+[2021-03-27 15:13:09]: | epoch  27 |     0/  406 batches | rec loss 0.5215 | dis loss 0.5671 |
+[2021-03-27 15:13:17]: | epoch  27 |   200/  406 batches | rec loss 0.5233 | dis loss 0.6569 |
+[2021-03-27 15:13:26]: | epoch  27 |   400/  406 batches | rec loss 0.4739 | dis loss 0.5923 |
+[2021-03-27 15:13:27]: | end of epoch  27 | time: 17.63s |
+[2021-03-27 15:13:27]: | epoch  28 |     0/  406 batches | rec loss 0.5224 | dis loss 0.5659 |
+[2021-03-27 15:13:35]: | epoch  28 |   200/  406 batches | rec loss 0.5320 | dis loss 0.6326 |
+[2021-03-27 15:13:44]: | epoch  28 |   400/  406 batches | rec loss 0.4475 | dis loss 0.5624 |
+[2021-03-27 15:13:44]: | end of epoch  28 | time: 17.60s |
+[2021-03-27 15:13:45]: | epoch  29 |     0/  406 batches | rec loss 0.5300 | dis loss 0.5555 |
+[2021-03-27 15:13:53]: | epoch  29 |   200/  406 batches | rec loss 0.5234 | dis loss 0.6415 |
+[2021-03-27 15:14:02]: | epoch  29 |   400/  406 batches | rec loss 0.4865 | dis loss 0.6003 |
+[2021-03-27 15:14:02]: | end of epoch  29 | time: 17.65s |
+[2021-03-27 15:14:03]: | epoch  30 |     0/  406 batches | rec loss 0.4751 | dis loss 0.5891 |
+[2021-03-27 15:14:11]: | epoch  30 |   200/  406 batches | rec loss 0.4911 | dis loss 0.6703 |
+[2021-03-27 15:14:20]: | epoch  30 |   400/  406 batches | rec loss 0.4800 | dis loss 0.5672 |
+[2021-03-27 15:14:20]: | end of epoch  30 | time: 17.67s |
+[2021-03-27 15:14:21]: | epoch  31 |     0/  406 batches | rec loss 0.4408 | dis loss 0.6347 |
+[2021-03-27 15:14:29]: | epoch  31 |   200/  406 batches | rec loss 0.4856 | dis loss 0.6426 |
+[2021-03-27 15:14:37]: | epoch  31 |   400/  406 batches | rec loss 0.4377 | dis loss 0.5848 |
+[2021-03-27 15:14:38]: | end of epoch  31 | time: 17.61s |
+[2021-03-27 15:14:38]: | epoch  32 |     0/  406 batches | rec loss 0.4771 | dis loss 0.5954 |
+[2021-03-27 15:14:47]: | epoch  32 |   200/  406 batches | rec loss 0.4903 | dis loss 0.6088 |
+[2021-03-27 15:14:55]: | epoch  32 |   400/  406 batches | rec loss 0.4351 | dis loss 0.5405 |
+[2021-03-27 15:14:56]: | end of epoch  32 | time: 17.57s |
+[2021-03-27 15:14:56]: | epoch  33 |     0/  406 batches | rec loss 0.4549 | dis loss 0.5671 |
+[2021-03-27 15:15:05]: | epoch  33 |   200/  406 batches | rec loss 0.4542 | dis loss 0.6675 |
+[2021-03-27 15:15:13]: | epoch  33 |   400/  406 batches | rec loss 0.4099 | dis loss 0.5596 |
+[2021-03-27 15:15:14]: | end of epoch  33 | time: 17.64s |
+[2021-03-27 15:15:14]: | epoch  34 |     0/  406 batches | rec loss 0.3928 | dis loss 0.5345 |
+[2021-03-27 15:15:23]: | epoch  34 |   200/  406 batches | rec loss 0.4768 | dis loss 0.6222 |
+[2021-03-27 15:15:31]: | epoch  34 |   400/  406 batches | rec loss 0.4037 | dis loss 0.5886 |
+[2021-03-27 15:15:32]: | end of epoch  34 | time: 17.63s |
+[2021-03-27 15:15:32]: | epoch  35 |     0/  406 batches | rec loss 0.4432 | dis loss 0.5396 |
+[2021-03-27 15:15:40]: | epoch  35 |   200/  406 batches | rec loss 0.4757 | dis loss 0.6010 |
+[2021-03-27 15:15:49]: | epoch  35 |   400/  406 batches | rec loss 0.4015 | dis loss 0.5531 |
+[2021-03-27 15:15:49]: | end of epoch  35 | time: 17.61s |
+[2021-03-27 15:15:50]: | epoch  36 |     0/  406 batches | rec loss 0.4097 | dis loss 0.5934 |
+[2021-03-27 15:15:58]: | epoch  36 |   200/  406 batches | rec loss 0.4787 | dis loss 0.5684 |
+[2021-03-27 15:16:07]: | epoch  36 |   400/  406 batches | rec loss 0.3670 | dis loss 0.5672 |
+[2021-03-27 15:16:07]: | end of epoch  36 | time: 17.62s |
+[2021-03-27 15:16:08]: | epoch  37 |     0/  406 batches | rec loss 0.4087 | dis loss 0.5739 |
+[2021-03-27 15:16:16]: | epoch  37 |   200/  406 batches | rec loss 0.4404 | dis loss 0.6032 |
+[2021-03-27 15:16:25]: | epoch  37 |   400/  406 batches | rec loss 0.4001 | dis loss 0.5646 |
+[2021-03-27 15:16:25]: | end of epoch  37 | time: 17.58s |
+[2021-03-27 15:16:25]: | epoch  38 |     0/  406 batches | rec loss 0.4218 | dis loss 0.5589 |
+[2021-03-27 15:16:34]: | epoch  38 |   200/  406 batches | rec loss 0.4393 | dis loss 0.5591 |
+[2021-03-27 15:16:42]: | epoch  38 |   400/  406 batches | rec loss 0.4100 | dis loss 0.5891 |
+[2021-03-27 15:16:43]: | end of epoch  38 | time: 17.69s |
+[2021-03-27 15:16:44]: | epoch  39 |     0/  406 batches | rec loss 0.3898 | dis loss 0.5658 |
+[2021-03-27 15:16:52]: | epoch  39 |   200/  406 batches | rec loss 0.4496 | dis loss 0.6039 |
+[2021-03-27 15:17:01]: | epoch  39 |   400/  406 batches | rec loss 0.3917 | dis loss 0.5743 |
+[2021-03-27 15:17:01]: | end of epoch  39 | time: 17.68s |
+[2021-03-27 15:17:02]: | epoch  40 |     0/  406 batches | rec loss 0.4283 | dis loss 0.5555 |
+[2021-03-27 15:17:10]: | epoch  40 |   200/  406 batches | rec loss 0.3986 | dis loss 0.5677 |
+[2021-03-27 15:17:18]: | epoch  40 |   400/  406 batches | rec loss 0.3849 | dis loss 0.5655 |
+[2021-03-27 15:17:19]: | end of epoch  40 | time: 17.59s |
+[2021-03-27 15:17:19]: | epoch  41 |     0/  406 batches | rec loss 0.4255 | dis loss 0.5491 |
+[2021-03-27 15:17:28]: | epoch  41 |   200/  406 batches | rec loss 0.4341 | dis loss 0.6272 |
+[2021-03-27 15:17:37]: | epoch  41 |   400/  406 batches | rec loss 0.4227 | dis loss 0.5799 |
+[2021-03-27 15:17:37]: | end of epoch  41 | time: 17.67s |
+[2021-03-27 15:17:37]: | epoch  42 |     0/  406 batches | rec loss 0.4072 | dis loss 0.5113 |
+[2021-03-27 15:17:46]: | epoch  42 |   200/  406 batches | rec loss 0.4253 | dis loss 0.6270 |
+[2021-03-27 15:17:54]: | epoch  42 |   400/  406 batches | rec loss 0.3631 | dis loss 0.5803 |
+[2021-03-27 15:17:55]: | end of epoch  42 | time: 17.65s |
+[2021-03-27 15:17:55]: | epoch  43 |     0/  406 batches | rec loss 0.3367 | dis loss 0.4941 |
+[2021-03-27 15:18:04]: | epoch  43 |   200/  406 batches | rec loss 0.3800 | dis loss 0.6000 |
+[2021-03-27 15:18:12]: | epoch  43 |   400/  406 batches | rec loss 0.3496 | dis loss 0.5658 |
+[2021-03-27 15:18:13]: | end of epoch  43 | time: 17.62s |
+[2021-03-27 15:18:13]: | epoch  44 |     0/  406 batches | rec loss 0.3665 | dis loss 0.5364 |
+[2021-03-27 15:18:22]: | epoch  44 |   200/  406 batches | rec loss 0.3773 | dis loss 0.5481 |
+[2021-03-27 15:18:30]: | epoch  44 |   400/  406 batches | rec loss 0.3674 | dis loss 0.5367 |
+[2021-03-27 15:18:31]: | end of epoch  44 | time: 17.66s |
+[2021-03-27 15:18:31]: | epoch  45 |     0/  406 batches | rec loss 0.3375 | dis loss 0.5130 |
+[2021-03-27 15:18:40]: | epoch  45 |   200/  406 batches | rec loss 0.4180 | dis loss 0.6367 |
+[2021-03-27 15:18:48]: | epoch  45 |   400/  406 batches | rec loss 0.3173 | dis loss 0.5753 |
+[2021-03-27 15:18:49]: | end of epoch  45 | time: 17.61s |
+[2021-03-27 15:18:49]: | epoch  46 |     0/  406 batches | rec loss 0.3638 | dis loss 0.4818 |
+[2021-03-27 15:18:57]: | epoch  46 |   200/  406 batches | rec loss 0.3837 | dis loss 0.6271 |
+[2021-03-27 15:19:06]: | epoch  46 |   400/  406 batches | rec loss 0.3162 | dis loss 0.5597 |
+[2021-03-27 15:19:07]: | end of epoch  46 | time: 17.66s |
+[2021-03-27 15:19:07]: | epoch  47 |     0/  406 batches | rec loss 0.3501 | dis loss 0.5127 |
+[2021-03-27 15:19:15]: | epoch  47 |   200/  406 batches | rec loss 0.3556 | dis loss 0.5603 |
+[2021-03-27 15:19:24]: | epoch  47 |   400/  406 batches | rec loss 0.3103 | dis loss 0.5516 |
+[2021-03-27 15:19:24]: | end of epoch  47 | time: 17.68s |
+[2021-03-27 15:19:25]: | epoch  48 |     0/  406 batches | rec loss 0.3694 | dis loss 0.4684 |
+[2021-03-27 15:19:33]: | epoch  48 |   200/  406 batches | rec loss 0.3809 | dis loss 0.5574 |
+[2021-03-27 15:19:42]: | epoch  48 |   400/  406 batches | rec loss 0.3309 | dis loss 0.5884 |
+[2021-03-27 15:19:42]: | end of epoch  48 | time: 17.63s |
+[2021-03-27 15:19:43]: | epoch  49 |     0/  406 batches | rec loss 0.3346 | dis loss 0.5803 |
+[2021-03-27 15:19:51]: | epoch  49 |   200/  406 batches | rec loss 0.3578 | dis loss 0.5772 |
+[2021-03-27 15:20:00]: | epoch  49 |   400/  406 batches | rec loss 0.3059 | dis loss 0.5467 |
+[2021-03-27 15:20:00]: | end of epoch  49 | time: 17.61s |
+[2021-03-27 15:20:01]: | epoch  50 |     0/  406 batches | rec loss 0.3306 | dis loss 0.4892 |
+[2021-03-27 15:20:09]: | epoch  50 |   200/  406 batches | rec loss 0.3967 | dis loss 0.5658 |
+[2021-03-27 15:20:18]: | epoch  50 |   400/  406 batches | rec loss 0.3105 | dis loss 0.5724 |
+[2021-03-27 15:20:18]: | end of epoch  50 | time: 17.64s |
+[2021-03-27 15:20:19]: | epoch  51 |     0/  406 batches | rec loss 0.3142 | dis loss 0.4691 |
+[2021-03-27 15:20:27]: | epoch  51 |   200/  406 batches | rec loss 0.3515 | dis loss 0.5260 |
+[2021-03-27 15:20:35]: | epoch  51 |   400/  406 batches | rec loss 0.3300 | dis loss 0.5881 |
+[2021-03-27 15:20:36]: | end of epoch  51 | time: 17.39s |
+[2021-03-27 15:20:36]: | epoch  52 |     0/  406 batches | rec loss 0.3557 | dis loss 0.4925 |
+[2021-03-27 15:20:44]: | epoch  52 |   200/  406 batches | rec loss 0.3611 | dis loss 0.5005 |
+[2021-03-27 15:20:52]: | epoch  52 |   400/  406 batches | rec loss 0.3159 | dis loss 0.5708 |
+[2021-03-27 15:20:53]: | end of epoch  52 | time: 16.56s |
+[2021-03-27 15:20:54]: | epoch  53 |     0/  406 batches | rec loss 0.3161 | dis loss 0.5245 |
+[2021-03-27 15:21:02]: | epoch  53 |   200/  406 batches | rec loss 0.3473 | dis loss 0.6035 |
+[2021-03-27 15:21:10]: | epoch  53 |   400/  406 batches | rec loss 0.2843 | dis loss 0.5844 |
+[2021-03-27 15:21:10]: | end of epoch  53 | time: 16.55s |
+[2021-03-27 15:21:11]: | epoch  54 |     0/  406 batches | rec loss 0.3172 | dis loss 0.4925 |
+[2021-03-27 15:21:19]: | epoch  54 |   200/  406 batches | rec loss 0.3346 | dis loss 0.5468 |
+[2021-03-27 15:21:27]: | epoch  54 |   400/  406 batches | rec loss 0.3209 | dis loss 0.5798 |
+[2021-03-27 15:21:27]: | end of epoch  54 | time: 16.58s |
+[2021-03-27 15:21:27]: | epoch  55 |     0/  406 batches | rec loss 0.3188 | dis loss 0.4826 |
+[2021-03-27 15:21:35]: | epoch  55 |   200/  406 batches | rec loss 0.3452 | dis loss 0.4941 |
+[2021-03-27 15:21:43]: | epoch  55 |   400/  406 batches | rec loss 0.2941 | dis loss 0.5409 |
+[2021-03-27 15:21:44]: | end of epoch  55 | time: 16.59s |
+[2021-03-27 15:21:44]: | epoch  56 |     0/  406 batches | rec loss 0.3175 | dis loss 0.4766 |
+[2021-03-27 15:21:52]: | epoch  56 |   200/  406 batches | rec loss 0.3512 | dis loss 0.5460 |
+[2021-03-27 15:22:00]: | epoch  56 |   400/  406 batches | rec loss 0.2807 | dis loss 0.6099 |
+[2021-03-27 15:22:01]: | end of epoch  56 | time: 16.57s |
+[2021-03-27 15:22:01]: | epoch  57 |     0/  406 batches | rec loss 0.3362 | dis loss 0.5141 |
+[2021-03-27 15:22:09]: | epoch  57 |   200/  406 batches | rec loss 0.3684 | dis loss 0.5450 |
+[2021-03-27 15:22:17]: | epoch  57 |   400/  406 batches | rec loss 0.2862 | dis loss 0.5939 |
+[2021-03-27 15:22:17]: | end of epoch  57 | time: 16.58s |
+[2021-03-27 15:22:18]: | epoch  58 |     0/  406 batches | rec loss 0.3265 | dis loss 0.5349 |
+[2021-03-27 15:22:26]: | epoch  58 |   200/  406 batches | rec loss 0.3235 | dis loss 0.5060 |
+[2021-03-27 15:22:34]: | epoch  58 |   400/  406 batches | rec loss 0.3046 | dis loss 0.6072 |
+[2021-03-27 15:22:34]: | end of epoch  58 | time: 16.56s |
+[2021-03-27 15:22:34]: | epoch  59 |     0/  406 batches | rec loss 0.3192 | dis loss 0.4781 |
+[2021-03-27 15:22:42]: | epoch  59 |   200/  406 batches | rec loss 0.3220 | dis loss 0.5298 |
+[2021-03-27 15:22:50]: | epoch  59 |   400/  406 batches | rec loss 0.2686 | dis loss 0.5784 |
+[2021-03-27 15:22:51]: | end of epoch  59 | time: 16.61s |
+[2021-03-27 15:22:51]: | epoch  60 |     0/  406 batches | rec loss 0.2691 | dis loss 0.4936 |
+[2021-03-27 15:22:59]: | epoch  60 |   200/  406 batches | rec loss 0.3360 | dis loss 0.5433 |
+[2021-03-27 15:23:07]: | epoch  60 |   400/  406 batches | rec loss 0.3194 | dis loss 0.6198 |
+[2021-03-27 15:23:08]: | end of epoch  60 | time: 16.56s |
+[2021-03-27 15:23:08]: | epoch  61 |     0/  406 batches | rec loss 0.3150 | dis loss 0.4961 |
+[2021-03-27 15:23:16]: | epoch  61 |   200/  406 batches | rec loss 0.3266 | dis loss 0.5094 |
+[2021-03-27 15:23:24]: | epoch  61 |   400/  406 batches | rec loss 0.3004 | dis loss 0.5496 |
+[2021-03-27 15:23:24]: | end of epoch  61 | time: 16.60s |
+[2021-03-27 15:23:25]: | epoch  62 |     0/  406 batches | rec loss 0.3120 | dis loss 0.4367 |
+[2021-03-27 15:23:33]: | epoch  62 |   200/  406 batches | rec loss 0.3095 | dis loss 0.4619 |
+[2021-03-27 15:23:41]: | epoch  62 |   400/  406 batches | rec loss 0.2710 | dis loss 0.5771 |
+[2021-03-27 15:23:41]: | end of epoch  62 | time: 16.56s |
+[2021-03-27 15:23:42]: | epoch  63 |     0/  406 batches | rec loss 0.2816 | dis loss 0.4975 |
+[2021-03-27 15:23:50]: | epoch  63 |   200/  406 batches | rec loss 0.3182 | dis loss 0.5106 |
+[2021-03-27 15:23:58]: | epoch  63 |   400/  406 batches | rec loss 0.3070 | dis loss 0.5558 |
+[2021-03-27 15:23:58]: | end of epoch  63 | time: 16.55s |
+[2021-03-27 15:23:58]: | epoch  64 |     0/  406 batches | rec loss 0.2789 | dis loss 0.5013 |
+[2021-03-27 15:24:06]: | epoch  64 |   200/  406 batches | rec loss 0.3340 | dis loss 0.5350 |
+[2021-03-27 15:24:14]: | epoch  64 |   400/  406 batches | rec loss 0.2417 | dis loss 0.5492 |
+[2021-03-27 15:24:15]: | end of epoch  64 | time: 16.60s |
+[2021-03-27 15:24:15]: | epoch  65 |     0/  406 batches | rec loss 0.2703 | dis loss 0.4178 |
+[2021-03-27 15:24:23]: | epoch  65 |   200/  406 batches | rec loss 0.2950 | dis loss 0.4639 |
+[2021-03-27 15:24:31]: | epoch  65 |   400/  406 batches | rec loss 0.2655 | dis loss 0.5430 |
+[2021-03-27 15:24:32]: | end of epoch  65 | time: 16.56s |
+[2021-03-27 15:24:32]: | epoch  66 |     0/  406 batches | rec loss 0.2935 | dis loss 0.4545 |
+[2021-03-27 15:24:40]: | epoch  66 |   200/  406 batches | rec loss 0.3501 | dis loss 0.4472 |
+[2021-03-27 15:24:48]: | epoch  66 |   400/  406 batches | rec loss 0.2566 | dis loss 0.5565 |
+[2021-03-27 15:24:49]: | end of epoch  66 | time: 16.60s |
+[2021-03-27 15:24:49]: | epoch  67 |     0/  406 batches | rec loss 0.2571 | dis loss 0.5014 |
+[2021-03-27 15:24:57]: | epoch  67 |   200/  406 batches | rec loss 0.3116 | dis loss 0.4851 |
+[2021-03-27 15:25:05]: | epoch  67 |   400/  406 batches | rec loss 0.2721 | dis loss 0.5673 |
+[2021-03-27 15:25:05]: | end of epoch  67 | time: 16.59s |
+[2021-03-27 15:25:06]: | epoch  68 |     0/  406 batches | rec loss 0.2759 | dis loss 0.4550 |
+[2021-03-27 15:25:14]: | epoch  68 |   200/  406 batches | rec loss 0.2924 | dis loss 0.4746 |
+[2021-03-27 15:25:22]: | epoch  68 |   400/  406 batches | rec loss 0.2978 | dis loss 0.5555 |
+[2021-03-27 15:25:22]: | end of epoch  68 | time: 16.60s |
+[2021-03-27 15:25:22]: | epoch  69 |     0/  406 batches | rec loss 0.3145 | dis loss 0.4434 |
+[2021-03-27 15:25:30]: | epoch  69 |   200/  406 batches | rec loss 0.3329 | dis loss 0.5136 |
+[2021-03-27 15:25:38]: | epoch  69 |   400/  406 batches | rec loss 0.2337 | dis loss 0.6082 |
+[2021-03-27 15:25:39]: | end of epoch  69 | time: 16.58s |
+[2021-03-27 15:25:39]: | epoch  70 |     0/  406 batches | rec loss 0.2819 | dis loss 0.4386 |
+[2021-03-27 15:25:47]: | epoch  70 |   200/  406 batches | rec loss 0.3102 | dis loss 0.4526 |
+[2021-03-27 15:25:55]: | epoch  70 |   400/  406 batches | rec loss 0.2954 | dis loss 0.5525 |
+[2021-03-27 15:25:56]: | end of epoch  70 | time: 16.61s |
+[2021-03-27 15:25:56]: | epoch  71 |     0/  406 batches | rec loss 0.2634 | dis loss 0.4696 |
+[2021-03-27 15:26:04]: | epoch  71 |   200/  406 batches | rec loss 0.3260 | dis loss 0.4869 |
+[2021-03-27 15:26:12]: | epoch  71 |   400/  406 batches | rec loss 0.2604 | dis loss 0.5588 |
+[2021-03-27 15:26:13]: | end of epoch  71 | time: 16.61s |
+[2021-03-27 15:26:13]: | epoch  72 |     0/  406 batches | rec loss 0.2707 | dis loss 0.4776 |
+[2021-03-27 15:26:21]: | epoch  72 |   200/  406 batches | rec loss 0.3104 | dis loss 0.4567 |
+[2021-03-27 15:26:29]: | epoch  72 |   400/  406 batches | rec loss 0.2514 | dis loss 0.6056 |
+[2021-03-27 15:26:29]: | end of epoch  72 | time: 16.55s |
+[2021-03-27 15:26:30]: | epoch  73 |     0/  406 batches | rec loss 0.2852 | dis loss 0.4488 |
+[2021-03-27 15:26:38]: | epoch  73 |   200/  406 batches | rec loss 0.3153 | dis loss 0.5038 |
+[2021-03-27 15:26:46]: | epoch  73 |   400/  406 batches | rec loss 0.2685 | dis loss 0.5473 |
+[2021-03-27 15:26:46]: | end of epoch  73 | time: 16.58s |
+[2021-03-27 15:26:46]: | epoch  74 |     0/  406 batches | rec loss 0.2718 | dis loss 0.4770 |
+[2021-03-27 15:26:54]: | epoch  74 |   200/  406 batches | rec loss 0.2754 | dis loss 0.5009 |
+[2021-03-27 15:27:02]: | epoch  74 |   400/  406 batches | rec loss 0.2604 | dis loss 0.5791 |
+[2021-03-27 15:27:03]: | end of epoch  74 | time: 16.58s |
+[2021-03-27 15:27:03]: | epoch  75 |     0/  406 batches | rec loss 0.2793 | dis loss 0.4268 |
+[2021-03-27 15:27:11]: | epoch  75 |   200/  406 batches | rec loss 0.2961 | dis loss 0.4968 |
+[2021-03-27 15:27:19]: | epoch  75 |   400/  406 batches | rec loss 0.2597 | dis loss 0.5982 |
+[2021-03-27 15:27:20]: | end of epoch  75 | time: 16.45s |
+[2021-03-27 15:27:20]: | epoch  76 |     0/  406 batches | rec loss 0.2870 | dis loss 0.4753 |
+[2021-03-27 15:27:28]: | epoch  76 |   200/  406 batches | rec loss 0.3135 | dis loss 0.5324 |
+[2021-03-27 15:27:36]: | epoch  76 |   400/  406 batches | rec loss 0.2651 | dis loss 0.5685 |
+[2021-03-27 15:27:36]: | end of epoch  76 | time: 16.35s |
+[2021-03-27 15:27:36]: | epoch  77 |     0/  406 batches | rec loss 0.2574 | dis loss 0.4203 |
+[2021-03-27 15:27:44]: | epoch  77 |   200/  406 batches | rec loss 0.2733 | dis loss 0.5022 |
+[2021-03-27 15:27:52]: | epoch  77 |   400/  406 batches | rec loss 0.2820 | dis loss 0.5743 |
+[2021-03-27 15:27:53]: | end of epoch  77 | time: 16.32s |
+[2021-03-27 15:27:53]: | epoch  78 |     0/  406 batches | rec loss 0.2586 | dis loss 0.4420 |
+[2021-03-27 15:28:01]: | epoch  78 |   200/  406 batches | rec loss 0.2907 | dis loss 0.5016 |
+[2021-03-27 15:28:09]: | epoch  78 |   400/  406 batches | rec loss 0.2448 | dis loss 0.5910 |
+[2021-03-27 15:28:09]: | end of epoch  78 | time: 16.23s |
+[2021-03-27 15:28:09]: | epoch  79 |     0/  406 batches | rec loss 0.2640 | dis loss 0.3935 |
+[2021-03-27 15:28:17]: | epoch  79 |   200/  406 batches | rec loss 0.2758 | dis loss 0.4295 |
+[2021-03-27 15:28:25]: | epoch  79 |   400/  406 batches | rec loss 0.2782 | dis loss 0.5751 |
+[2021-03-27 15:28:26]: | end of epoch  79 | time: 16.25s |
+[2021-03-27 15:28:26]: | epoch  80 |     0/  406 batches | rec loss 0.2652 | dis loss 0.4357 |
+[2021-03-27 15:28:34]: | epoch  80 |   200/  406 batches | rec loss 0.2925 | dis loss 0.4396 |
+[2021-03-27 15:28:42]: | epoch  80 |   400/  406 batches | rec loss 0.2506 | dis loss 0.5911 |
+[2021-03-27 15:28:42]: | end of epoch  80 | time: 16.25s |
+[2021-03-27 15:28:42]: | epoch  81 |     0/  406 batches | rec loss 0.2512 | dis loss 0.4288 |
+[2021-03-27 15:28:50]: | epoch  81 |   200/  406 batches | rec loss 0.2900 | dis loss 0.4910 |
+[2021-03-27 15:28:58]: | epoch  81 |   400/  406 batches | rec loss 0.2475 | dis loss 0.5734 |
+[2021-03-27 15:28:59]: | end of epoch  81 | time: 16.27s |
+[2021-03-27 15:28:59]: | epoch  82 |     0/  406 batches | rec loss 0.2406 | dis loss 0.4402 |
+[2021-03-27 15:29:07]: | epoch  82 |   200/  406 batches | rec loss 0.2813 | dis loss 0.4175 |
+[2021-03-27 15:29:15]: | epoch  82 |   400/  406 batches | rec loss 0.2517 | dis loss 0.5232 |
+[2021-03-27 15:29:15]: | end of epoch  82 | time: 16.48s |
+[2021-03-27 15:29:16]: | epoch  83 |     0/  406 batches | rec loss 0.2534 | dis loss 0.4550 |
+[2021-03-27 15:29:24]: | epoch  83 |   200/  406 batches | rec loss 0.2815 | dis loss 0.4295 |
+[2021-03-27 15:29:32]: | epoch  83 |   400/  406 batches | rec loss 0.2350 | dis loss 0.5690 |
+[2021-03-27 15:29:32]: | end of epoch  83 | time: 16.57s |
+[2021-03-27 15:29:32]: | epoch  84 |     0/  406 batches | rec loss 0.2461 | dis loss 0.4381 |
+[2021-03-27 15:29:40]: | epoch  84 |   200/  406 batches | rec loss 0.3035 | dis loss 0.3742 |
+[2021-03-27 15:29:48]: | epoch  84 |   400/  406 batches | rec loss 0.2893 | dis loss 0.5174 |
+[2021-03-27 15:29:49]: | end of epoch  84 | time: 16.47s |
+[2021-03-27 15:29:49]: | epoch  85 |     0/  406 batches | rec loss 0.2375 | dis loss 0.4441 |
+[2021-03-27 15:29:57]: | epoch  85 |   200/  406 batches | rec loss 0.2767 | dis loss 0.4222 |
+[2021-03-27 15:30:05]: | epoch  85 |   400/  406 batches | rec loss 0.2546 | dis loss 0.5729 |
+[2021-03-27 15:30:05]: | end of epoch  85 | time: 16.38s |
+[2021-03-27 15:30:06]: | epoch  86 |     0/  406 batches | rec loss 0.2476 | dis loss 0.4461 |
+[2021-03-27 15:30:14]: | epoch  86 |   200/  406 batches | rec loss 0.2672 | dis loss 0.4048 |
+[2021-03-27 15:30:21]: | epoch  86 |   400/  406 batches | rec loss 0.2598 | dis loss 0.5856 |
+[2021-03-27 15:30:22]: | end of epoch  86 | time: 16.37s |
+[2021-03-27 15:30:22]: | epoch  87 |     0/  406 batches | rec loss 0.2237 | dis loss 0.4484 |
+[2021-03-27 15:30:30]: | epoch  87 |   200/  406 batches | rec loss 0.2997 | dis loss 0.4344 |
+[2021-03-27 15:30:38]: | epoch  87 |   400/  406 batches | rec loss 0.2304 | dis loss 0.5712 |
+[2021-03-27 15:30:39]: | end of epoch  87 | time: 16.32s |
+[2021-03-27 15:30:39]: | epoch  88 |     0/  406 batches | rec loss 0.2416 | dis loss 0.4308 |
+[2021-03-27 15:30:47]: | epoch  88 |   200/  406 batches | rec loss 0.2767 | dis loss 0.5520 |
+[2021-03-27 15:30:55]: | epoch  88 |   400/  406 batches | rec loss 0.2366 | dis loss 0.5688 |
+[2021-03-27 15:30:55]: | end of epoch  88 | time: 16.31s |
+[2021-03-27 15:30:55]: | epoch  89 |     0/  406 batches | rec loss 0.2558 | dis loss 0.4456 |
+[2021-03-27 15:31:03]: | epoch  89 |   200/  406 batches | rec loss 0.2641 | dis loss 0.4750 |
+[2021-03-27 15:31:11]: | epoch  89 |   400/  406 batches | rec loss 0.2415 | dis loss 0.5882 |
+[2021-03-27 15:31:12]: | end of epoch  89 | time: 16.28s |
+[2021-03-27 15:31:12]: | epoch  90 |     0/  406 batches | rec loss 0.2535 | dis loss 0.3914 |
+[2021-03-27 15:31:20]: | epoch  90 |   200/  406 batches | rec loss 0.2808 | dis loss 0.4936 |
+[2021-03-27 15:31:28]: | epoch  90 |   400/  406 batches | rec loss 0.2262 | dis loss 0.6120 |
+[2021-03-27 15:31:28]: | end of epoch  90 | time: 16.34s |
+[2021-03-27 15:31:29]: | epoch  91 |     0/  406 batches | rec loss 0.2364 | dis loss 0.4999 |
+[2021-03-27 15:31:36]: | epoch  91 |   200/  406 batches | rec loss 0.2582 | dis loss 0.4514 |
+[2021-03-27 15:31:44]: | epoch  91 |   400/  406 batches | rec loss 0.2443 | dis loss 0.5421 |
+[2021-03-27 15:31:45]: | end of epoch  91 | time: 16.30s |
+[2021-03-27 15:31:45]: | epoch  92 |     0/  406 batches | rec loss 0.2512 | dis loss 0.4197 |
+[2021-03-27 15:31:53]: | epoch  92 |   200/  406 batches | rec loss 0.2599 | dis loss 0.4074 |
+[2021-03-27 15:32:01]: | epoch  92 |   400/  406 batches | rec loss 0.2329 | dis loss 0.5518 |
+[2021-03-27 15:32:01]: | end of epoch  92 | time: 16.31s |
+[2021-03-27 15:32:02]: | epoch  93 |     0/  406 batches | rec loss 0.2252 | dis loss 0.4442 |
+[2021-03-27 15:32:09]: | epoch  93 |   200/  406 batches | rec loss 0.2729 | dis loss 0.4244 |
+[2021-03-27 15:32:17]: | epoch  93 |   400/  406 batches | rec loss 0.2431 | dis loss 0.5601 |
+[2021-03-27 15:32:18]: | end of epoch  93 | time: 16.29s |
+[2021-03-27 15:32:18]: | epoch  94 |     0/  406 batches | rec loss 0.2270 | dis loss 0.4090 |
+[2021-03-27 15:32:26]: | epoch  94 |   200/  406 batches | rec loss 0.2812 | dis loss 0.4640 |
+[2021-03-27 15:32:34]: | epoch  94 |   400/  406 batches | rec loss 0.2457 | dis loss 0.5999 |
+[2021-03-27 15:32:35]: | end of epoch  94 | time: 16.52s |
+[2021-03-27 15:32:35]: | epoch  95 |     0/  406 batches | rec loss 0.2182 | dis loss 0.3676 |
+[2021-03-27 15:32:43]: | epoch  95 |   200/  406 batches | rec loss 0.2526 | dis loss 0.4495 |
+[2021-03-27 15:32:51]: | epoch  95 |   400/  406 batches | rec loss 0.2205 | dis loss 0.6145 |
+[2021-03-27 15:32:51]: | end of epoch  95 | time: 16.50s |
+[2021-03-27 15:32:52]: | epoch  96 |     0/  406 batches | rec loss 0.2313 | dis loss 0.4717 |
+[2021-03-27 15:33:00]: | epoch  96 |   200/  406 batches | rec loss 0.3004 | dis loss 0.4751 |
+[2021-03-27 15:33:08]: | epoch  96 |   400/  406 batches | rec loss 0.2489 | dis loss 0.5612 |
+[2021-03-27 15:33:08]: | end of epoch  96 | time: 16.51s |
+[2021-03-27 15:33:09]: | epoch  97 |     0/  406 batches | rec loss 0.2302 | dis loss 0.3809 |
+[2021-03-27 15:33:17]: | epoch  97 |   200/  406 batches | rec loss 0.2614 | dis loss 0.4557 |
+[2021-03-27 15:33:24]: | epoch  97 |   400/  406 batches | rec loss 0.2140 | dis loss 0.5957 |
+[2021-03-27 15:33:25]: | end of epoch  97 | time: 16.45s |
+[2021-03-27 15:33:25]: | epoch  98 |     0/  406 batches | rec loss 0.1924 | dis loss 0.4612 |
+[2021-03-27 15:33:33]: | epoch  98 |   200/  406 batches | rec loss 0.2684 | dis loss 0.5174 |
+[2021-03-27 15:33:41]: | epoch  98 |   400/  406 batches | rec loss 0.2120 | dis loss 0.5456 |
+[2021-03-27 15:33:42]: | end of epoch  98 | time: 16.49s |
+[2021-03-27 15:33:42]: | epoch  99 |     0/  406 batches | rec loss 0.2556 | dis loss 0.4374 |
+[2021-03-27 15:33:50]: | epoch  99 |   200/  406 batches | rec loss 0.3127 | dis loss 0.4953 |
+[2021-03-27 15:33:58]: | epoch  99 |   400/  406 batches | rec loss 0.2379 | dis loss 0.5441 |
+[2021-03-27 15:33:59]: | end of epoch  99 | time: 16.49s |
+[2021-03-27 15:33:59]: | epoch 100 |     0/  406 batches | rec loss 0.2514 | dis loss 0.4152 |
+[2021-03-27 15:34:07]: | epoch 100 |   200/  406 batches | rec loss 0.2658 | dis loss 0.4653 |
+[2021-03-27 15:34:15]: | epoch 100 |   400/  406 batches | rec loss 0.2414 | dis loss 0.5506 |
+[2021-03-27 15:34:15]: | end of epoch 100 | time: 16.30s |
+[2021-03-27 15:34:15]: | epoch 101 |     0/  406 batches | rec loss 0.2359 | dis loss 0.4599 |
+[2021-03-27 15:34:23]: | epoch 101 |   200/  406 batches | rec loss 0.2433 | dis loss 0.4733 |
+[2021-03-27 15:34:31]: | epoch 101 |   400/  406 batches | rec loss 0.2440 | dis loss 0.5342 |
+[2021-03-27 15:34:32]: | end of epoch 101 | time: 16.29s |
+[2021-03-27 15:34:32]: | epoch 102 |     0/  406 batches | rec loss 0.2310 | dis loss 0.3976 |
+[2021-03-27 15:34:40]: | epoch 102 |   200/  406 batches | rec loss 0.2885 | dis loss 0.4145 |
+[2021-03-27 15:34:48]: | epoch 102 |   400/  406 batches | rec loss 0.2552 | dis loss 0.5764 |
+[2021-03-27 15:34:48]: | end of epoch 102 | time: 16.24s |
+[2021-03-27 15:34:49]: | epoch 103 |     0/  406 batches | rec loss 0.2156 | dis loss 0.5176 |
+[2021-03-27 15:34:57]: | epoch 103 |   200/  406 batches | rec loss 0.2814 | dis loss 0.4451 |
+[2021-03-27 15:35:04]: | epoch 103 |   400/  406 batches | rec loss 0.2144 | dis loss 0.5426 |
+[2021-03-27 15:35:05]: | end of epoch 103 | time: 16.26s |
+[2021-03-27 15:35:05]: | epoch 104 |     0/  406 batches | rec loss 0.2248 | dis loss 0.4657 |
+[2021-03-27 15:35:13]: | epoch 104 |   200/  406 batches | rec loss 0.2593 | dis loss 0.4427 |
+[2021-03-27 15:35:21]: | epoch 104 |   400/  406 batches | rec loss 0.2431 | dis loss 0.5101 |
+[2021-03-27 15:35:21]: | end of epoch 104 | time: 16.30s |
+[2021-03-27 15:35:22]: | epoch 105 |     0/  406 batches | rec loss 0.2175 | dis loss 0.4117 |
+[2021-03-27 15:35:30]: | epoch 105 |   200/  406 batches | rec loss 0.2707 | dis loss 0.4529 |
+[2021-03-27 15:35:37]: | epoch 105 |   400/  406 batches | rec loss 0.2182 | dis loss 0.5139 |
+[2021-03-27 15:35:38]: | end of epoch 105 | time: 16.30s |
+[2021-03-27 15:35:38]: | epoch 106 |     0/  406 batches | rec loss 0.2403 | dis loss 0.4204 |
+[2021-03-27 15:35:46]: | epoch 106 |   200/  406 batches | rec loss 0.2733 | dis loss 0.3610 |
+[2021-03-27 15:35:54]: | epoch 106 |   400/  406 batches | rec loss 0.2155 | dis loss 0.5051 |
+[2021-03-27 15:35:55]: | end of epoch 106 | time: 16.48s |
+[2021-03-27 15:35:55]: | epoch 107 |     0/  406 batches | rec loss 0.2408 | dis loss 0.4384 |
+[2021-03-27 15:36:03]: | epoch 107 |   200/  406 batches | rec loss 0.2584 | dis loss 0.4517 |
+[2021-03-27 15:36:11]: | epoch 107 |   400/  406 batches | rec loss 0.2110 | dis loss 0.5120 |
+[2021-03-27 15:36:11]: | end of epoch 107 | time: 16.50s |
+[2021-03-27 15:36:12]: | epoch 108 |     0/  406 batches | rec loss 0.2277 | dis loss 0.5549 |
+[2021-03-27 15:36:20]: | epoch 108 |   200/  406 batches | rec loss 0.2571 | dis loss 0.4343 |
+[2021-03-27 15:36:28]: | epoch 108 |   400/  406 batches | rec loss 0.1997 | dis loss 0.4681 |
+[2021-03-27 15:36:28]: | end of epoch 108 | time: 16.53s |
+[2021-03-27 15:36:29]: | epoch 109 |     0/  406 batches | rec loss 0.2216 | dis loss 0.4221 |
+[2021-03-27 15:36:37]: | epoch 109 |   200/  406 batches | rec loss 0.2491 | dis loss 0.4401 |
+[2021-03-27 15:36:44]: | epoch 109 |   400/  406 batches | rec loss 0.2023 | dis loss 0.4846 |
+[2021-03-27 15:36:45]: | end of epoch 109 | time: 16.46s |
+[2021-03-27 15:36:45]: | epoch 110 |     0/  406 batches | rec loss 0.2216 | dis loss 0.4076 |
+[2021-03-27 15:36:53]: | epoch 110 |   200/  406 batches | rec loss 0.2429 | dis loss 0.4995 |
+[2021-03-27 15:37:01]: | epoch 110 |   400/  406 batches | rec loss 0.2216 | dis loss 0.4968 |
+[2021-03-27 15:37:02]: | end of epoch 110 | time: 16.45s |
+[2021-03-27 15:37:02]: | epoch 111 |     0/  406 batches | rec loss 0.2252 | dis loss 0.4450 |
+[2021-03-27 15:37:10]: | epoch 111 |   200/  406 batches | rec loss 0.2653 | dis loss 0.4721 |
+[2021-03-27 15:37:18]: | epoch 111 |   400/  406 batches | rec loss 0.2068 | dis loss 0.4681 |
+[2021-03-27 15:37:18]: | end of epoch 111 | time: 16.23s |
+[2021-03-27 15:37:18]: | epoch 112 |     0/  406 batches | rec loss 0.2517 | dis loss 0.4275 |
+[2021-03-27 15:37:26]: | epoch 112 |   200/  406 batches | rec loss 0.2488 | dis loss 0.4435 |
+[2021-03-27 15:37:34]: | epoch 112 |   400/  406 batches | rec loss 0.2307 | dis loss 0.4886 |
+[2021-03-27 15:37:35]: | end of epoch 112 | time: 16.32s |
+[2021-03-27 15:37:35]: | epoch 113 |     0/  406 batches | rec loss 0.2233 | dis loss 0.4849 |
+[2021-03-27 15:37:43]: | epoch 113 |   200/  406 batches | rec loss 0.2505 | dis loss 0.4021 |
+[2021-03-27 15:37:51]: | epoch 113 |   400/  406 batches | rec loss 0.2112 | dis loss 0.5246 |
+[2021-03-27 15:37:51]: | end of epoch 113 | time: 16.33s |
+[2021-03-27 15:37:51]: | epoch 114 |     0/  406 batches | rec loss 0.2144 | dis loss 0.5275 |
+[2021-03-27 15:37:59]: | epoch 114 |   200/  406 batches | rec loss 0.2546 | dis loss 0.4249 |
+[2021-03-27 15:38:07]: | epoch 114 |   400/  406 batches | rec loss 0.2193 | dis loss 0.4764 |
+[2021-03-27 15:38:08]: | end of epoch 114 | time: 16.35s |
+[2021-03-27 15:38:08]: | epoch 115 |     0/  406 batches | rec loss 0.2108 | dis loss 0.3957 |
+[2021-03-27 15:38:16]: | epoch 115 |   200/  406 batches | rec loss 0.2687 | dis loss 0.4430 |
+[2021-03-27 15:38:24]: | epoch 115 |   400/  406 batches | rec loss 0.2290 | dis loss 0.4882 |
+[2021-03-27 15:38:24]: | end of epoch 115 | time: 16.36s |
+[2021-03-27 15:38:25]: | epoch 116 |     0/  406 batches | rec loss 0.2092 | dis loss 0.3774 |
+[2021-03-27 15:38:33]: | epoch 116 |   200/  406 batches | rec loss 0.2595 | dis loss 0.4012 |
+[2021-03-27 15:38:41]: | epoch 116 |   400/  406 batches | rec loss 0.2171 | dis loss 0.5067 |
+[2021-03-27 15:38:41]: | end of epoch 116 | time: 16.37s |
+[2021-03-27 15:38:41]: | epoch 117 |     0/  406 batches | rec loss 0.2389 | dis loss 0.4304 |
+[2021-03-27 15:38:49]: | epoch 117 |   200/  406 batches | rec loss 0.2444 | dis loss 0.4845 |
+[2021-03-27 15:38:57]: | epoch 117 |   400/  406 batches | rec loss 0.2217 | dis loss 0.5337 |
+[2021-03-27 15:38:58]: | end of epoch 117 | time: 16.34s |
+[2021-03-27 15:38:58]: | epoch 118 |     0/  406 batches | rec loss 0.2206 | dis loss 0.4109 |
+[2021-03-27 15:39:06]: | epoch 118 |   200/  406 batches | rec loss 0.2323 | dis loss 0.4110 |
+[2021-03-27 15:39:14]: | epoch 118 |   400/  406 batches | rec loss 0.1985 | dis loss 0.5036 |
+[2021-03-27 15:39:14]: | end of epoch 118 | time: 16.35s |
+[2021-03-27 15:39:15]: | epoch 119 |     0/  406 batches | rec loss 0.2049 | dis loss 0.4258 |
+[2021-03-27 15:39:23]: | epoch 119 |   200/  406 batches | rec loss 0.2616 | dis loss 0.4292 |
+[2021-03-27 15:39:31]: | epoch 119 |   400/  406 batches | rec loss 0.1789 | dis loss 0.5820 |
+[2021-03-27 15:39:31]: | end of epoch 119 | time: 16.57s |
+[2021-03-27 15:39:31]: | epoch 120 |     0/  406 batches | rec loss 0.2182 | dis loss 0.4770 |
+[2021-03-27 15:39:39]: | epoch 120 |   200/  406 batches | rec loss 0.2655 | dis loss 0.3826 |
+[2021-03-27 15:39:47]: | epoch 120 |   400/  406 batches | rec loss 0.2238 | dis loss 0.5351 |
+[2021-03-27 15:39:48]: | end of epoch 120 | time: 16.60s |
+[2021-03-27 15:39:48]: | epoch 121 |     0/  406 batches | rec loss 0.2360 | dis loss 0.4802 |
+[2021-03-27 15:39:56]: | epoch 121 |   200/  406 batches | rec loss 0.2496 | dis loss 0.4010 |
+[2021-03-27 15:40:04]: | epoch 121 |   400/  406 batches | rec loss 0.2041 | dis loss 0.5696 |
+[2021-03-27 15:40:05]: | end of epoch 121 | time: 16.49s |
+[2021-03-27 15:40:05]: | epoch 122 |     0/  406 batches | rec loss 0.2244 | dis loss 0.4034 |
+[2021-03-27 15:40:13]: | epoch 122 |   200/  406 batches | rec loss 0.2416 | dis loss 0.3990 |
+[2021-03-27 15:40:21]: | epoch 122 |   400/  406 batches | rec loss 0.2250 | dis loss 0.5778 |
+[2021-03-27 15:40:21]: | end of epoch 122 | time: 16.28s |
+[2021-03-27 15:40:22]: | epoch 123 |     0/  406 batches | rec loss 0.2100 | dis loss 0.4231 |
+[2021-03-27 15:40:29]: | epoch 123 |   200/  406 batches | rec loss 0.2404 | dis loss 0.4238 |
+[2021-03-27 15:40:37]: | epoch 123 |   400/  406 batches | rec loss 0.1993 | dis loss 0.4896 |
+[2021-03-27 15:40:38]: | end of epoch 123 | time: 16.22s |
+[2021-03-27 15:40:38]: | epoch 124 |     0/  406 batches | rec loss 0.2041 | dis loss 0.4510 |
+[2021-03-27 15:40:46]: | epoch 124 |   200/  406 batches | rec loss 0.2432 | dis loss 0.3445 |
+[2021-03-27 15:40:54]: | epoch 124 |   400/  406 batches | rec loss 0.2057 | dis loss 0.4881 |
+[2021-03-27 15:40:54]: | end of epoch 124 | time: 16.32s |
+[2021-03-27 15:40:55]: | epoch 125 |     0/  406 batches | rec loss 0.2138 | dis loss 0.3373 |
+[2021-03-27 15:41:02]: | epoch 125 |   200/  406 batches | rec loss 0.2422 | dis loss 0.4213 |
+[2021-03-27 15:41:10]: | epoch 125 |   400/  406 batches | rec loss 0.1861 | dis loss 0.4942 |
+[2021-03-27 15:41:11]: | end of epoch 125 | time: 16.28s |
+[2021-03-27 15:41:12]: | epoch 126 |     0/  406 batches | rec loss 0.2148 | dis loss 0.4424 |
+[2021-03-27 15:41:19]: | epoch 126 |   200/  406 batches | rec loss 0.2437 | dis loss 0.4169 |
+[2021-03-27 15:41:27]: | epoch 126 |   400/  406 batches | rec loss 0.2034 | dis loss 0.5127 |
+[2021-03-27 15:41:28]: | end of epoch 126 | time: 16.30s |
+[2021-03-27 15:41:28]: | epoch 127 |     0/  406 batches | rec loss 0.1979 | dis loss 0.4347 |
+[2021-03-27 15:41:36]: | epoch 127 |   200/  406 batches | rec loss 0.2469 | dis loss 0.4790 |
+[2021-03-27 15:41:44]: | epoch 127 |   400/  406 batches | rec loss 0.2243 | dis loss 0.4961 |
+[2021-03-27 15:41:44]: | end of epoch 127 | time: 16.33s |
+[2021-03-27 15:41:45]: | epoch 128 |     0/  406 batches | rec loss 0.2127 | dis loss 0.3819 |
+[2021-03-27 15:41:53]: | epoch 128 |   200/  406 batches | rec loss 0.2297 | dis loss 0.4145 |
+[2021-03-27 15:42:01]: | epoch 128 |   400/  406 batches | rec loss 0.1861 | dis loss 0.4489 |
+[2021-03-27 15:42:01]: | end of epoch 128 | time: 16.44s |
+[2021-03-27 15:42:01]: | epoch 129 |     0/  406 batches | rec loss 0.2291 | dis loss 0.3583 |
+[2021-03-27 15:42:09]: | epoch 129 |   200/  406 batches | rec loss 0.2475 | dis loss 0.4752 |
+[2021-03-27 15:42:17]: | epoch 129 |   400/  406 batches | rec loss 0.1856 | dis loss 0.4949 |
+[2021-03-27 15:42:18]: | end of epoch 129 | time: 16.35s |
+[2021-03-27 15:42:18]: | epoch 130 |     0/  406 batches | rec loss 0.2275 | dis loss 0.4637 |
+[2021-03-27 15:42:26]: | epoch 130 |   200/  406 batches | rec loss 0.2473 | dis loss 0.3670 |
+[2021-03-27 15:42:34]: | epoch 130 |   400/  406 batches | rec loss 0.1992 | dis loss 0.5045 |
+[2021-03-27 15:42:34]: | end of epoch 130 | time: 16.20s |
+[2021-03-27 15:42:35]: | epoch 131 |     0/  406 batches | rec loss 0.2136 | dis loss 0.3204 |
+[2021-03-27 15:42:42]: | epoch 131 |   200/  406 batches | rec loss 0.2302 | dis loss 0.4561 |
+[2021-03-27 15:42:50]: | epoch 131 |   400/  406 batches | rec loss 0.1859 | dis loss 0.5336 |
+[2021-03-27 15:42:51]: | end of epoch 131 | time: 16.22s |
+[2021-03-27 15:42:51]: | epoch 132 |     0/  406 batches | rec loss 0.2088 | dis loss 0.3968 |
+[2021-03-27 15:42:59]: | epoch 132 |   200/  406 batches | rec loss 0.2165 | dis loss 0.4477 |
+[2021-03-27 15:43:07]: | epoch 132 |   400/  406 batches | rec loss 0.1959 | dis loss 0.4551 |
+[2021-03-27 15:43:07]: | end of epoch 132 | time: 16.21s |
+[2021-03-27 15:43:08]: | epoch 133 |     0/  406 batches | rec loss 0.2088 | dis loss 0.3830 |
+[2021-03-27 15:43:15]: | epoch 133 |   200/  406 batches | rec loss 0.2519 | dis loss 0.3728 |
+[2021-03-27 15:43:23]: | epoch 133 |   400/  406 batches | rec loss 0.1800 | dis loss 0.5622 |
+[2021-03-27 15:43:24]: | end of epoch 133 | time: 16.25s |
+[2021-03-27 15:43:24]: | epoch 134 |     0/  406 batches | rec loss 0.2244 | dis loss 0.3961 |
+[2021-03-27 15:43:32]: | epoch 134 |   200/  406 batches | rec loss 0.2201 | dis loss 0.4745 |
+[2021-03-27 15:43:40]: | epoch 134 |   400/  406 batches | rec loss 0.2021 | dis loss 0.4877 |
+[2021-03-27 15:43:40]: | end of epoch 134 | time: 16.28s |
+[2021-03-27 15:43:40]: | epoch 135 |     0/  406 batches | rec loss 0.2207 | dis loss 0.3451 |
+[2021-03-27 15:43:48]: | epoch 135 |   200/  406 batches | rec loss 0.2136 | dis loss 0.3570 |
+[2021-03-27 15:43:56]: | epoch 135 |   400/  406 batches | rec loss 0.2169 | dis loss 0.4524 |
+[2021-03-27 15:43:57]: | end of epoch 135 | time: 16.25s |
+[2021-03-27 15:43:57]: | epoch 136 |     0/  406 batches | rec loss 0.1876 | dis loss 0.3080 |
+[2021-03-27 15:44:05]: | epoch 136 |   200/  406 batches | rec loss 0.2420 | dis loss 0.3836 |
+[2021-03-27 15:44:12]: | epoch 136 |   400/  406 batches | rec loss 0.2029 | dis loss 0.4722 |
+[2021-03-27 15:44:13]: | end of epoch 136 | time: 16.18s |
+[2021-03-27 15:44:13]: | epoch 137 |     0/  406 batches | rec loss 0.2181 | dis loss 0.3393 |
+[2021-03-27 15:44:21]: | epoch 137 |   200/  406 batches | rec loss 0.2572 | dis loss 0.3850 |
+[2021-03-27 15:44:29]: | epoch 137 |   400/  406 batches | rec loss 0.2091 | dis loss 0.4828 |
+[2021-03-27 15:44:30]: | end of epoch 137 | time: 16.28s |
+[2021-03-27 15:44:30]: | epoch 138 |     0/  406 batches | rec loss 0.1989 | dis loss 0.3870 |
+[2021-03-27 15:44:38]: | epoch 138 |   200/  406 batches | rec loss 0.2283 | dis loss 0.2700 |
+[2021-03-27 15:44:45]: | epoch 138 |   400/  406 batches | rec loss 0.2151 | dis loss 0.4641 |
+[2021-03-27 15:44:46]: | end of epoch 138 | time: 16.33s |
+[2021-03-27 15:44:46]: | epoch 139 |     0/  406 batches | rec loss 0.1965 | dis loss 0.3740 |
+[2021-03-27 15:44:54]: | epoch 139 |   200/  406 batches | rec loss 0.2365 | dis loss 0.4649 |
+[2021-03-27 15:45:02]: | epoch 139 |   400/  406 batches | rec loss 0.1902 | dis loss 0.4298 |
+[2021-03-27 15:45:03]: | end of epoch 139 | time: 16.26s |
+[2021-03-27 15:45:03]: | epoch 140 |     0/  406 batches | rec loss 0.1928 | dis loss 0.4183 |
+[2021-03-27 15:45:11]: | epoch 140 |   200/  406 batches | rec loss 0.2575 | dis loss 0.4220 |
+[2021-03-27 15:45:18]: | epoch 140 |   400/  406 batches | rec loss 0.2145 | dis loss 0.4876 |
+[2021-03-27 15:45:19]: | end of epoch 140 | time: 16.19s |
+[2021-03-27 15:45:19]: | epoch 141 |     0/  406 batches | rec loss 0.2014 | dis loss 0.3568 |
+[2021-03-27 15:45:27]: | epoch 141 |   200/  406 batches | rec loss 0.2432 | dis loss 0.3456 |
+[2021-03-27 15:45:35]: | epoch 141 |   400/  406 batches | rec loss 0.1943 | dis loss 0.4640 |
+[2021-03-27 15:45:35]: | end of epoch 141 | time: 16.17s |
+[2021-03-27 15:45:36]: | epoch 142 |     0/  406 batches | rec loss 0.1826 | dis loss 0.4012 |
+[2021-03-27 15:45:43]: | epoch 142 |   200/  406 batches | rec loss 0.2376 | dis loss 0.3796 |
+[2021-03-27 15:45:51]: | epoch 142 |   400/  406 batches | rec loss 0.2183 | dis loss 0.4913 |
+[2021-03-27 15:45:52]: | end of epoch 142 | time: 16.17s |
+[2021-03-27 15:45:52]: | epoch 143 |     0/  406 batches | rec loss 0.1986 | dis loss 0.3525 |
+[2021-03-27 15:46:00]: | epoch 143 |   200/  406 batches | rec loss 0.2477 | dis loss 0.3934 |
+[2021-03-27 15:46:08]: | epoch 143 |   400/  406 batches | rec loss 0.2216 | dis loss 0.4824 |
+[2021-03-27 15:46:08]: | end of epoch 143 | time: 16.17s |
+[2021-03-27 15:46:08]: | epoch 144 |     0/  406 batches | rec loss 0.1997 | dis loss 0.3650 |
+[2021-03-27 15:46:16]: | epoch 144 |   200/  406 batches | rec loss 0.2365 | dis loss 0.4881 |
+[2021-03-27 15:46:24]: | epoch 144 |   400/  406 batches | rec loss 0.1839 | dis loss 0.4859 |
+[2021-03-27 15:46:25]: | end of epoch 144 | time: 16.17s |
+[2021-03-27 15:46:25]: | epoch 145 |     0/  406 batches | rec loss 0.2113 | dis loss 0.3700 |
+[2021-03-27 15:46:33]: | epoch 145 |   200/  406 batches | rec loss 0.2396 | dis loss 0.4039 |
+[2021-03-27 15:46:40]: | epoch 145 |   400/  406 batches | rec loss 0.2195 | dis loss 0.5092 |
+[2021-03-27 15:46:41]: | end of epoch 145 | time: 16.17s |
+[2021-03-27 15:46:41]: | epoch 146 |     0/  406 batches | rec loss 0.1962 | dis loss 0.3479 |
+[2021-03-27 15:46:49]: | epoch 146 |   200/  406 batches | rec loss 0.2446 | dis loss 0.2916 |
+[2021-03-27 15:46:57]: | epoch 146 |   400/  406 batches | rec loss 0.2164 | dis loss 0.4133 |
+[2021-03-27 15:46:57]: | end of epoch 146 | time: 16.17s |
+[2021-03-27 15:46:58]: | epoch 147 |     0/  406 batches | rec loss 0.1801 | dis loss 0.3236 |
+[2021-03-27 15:47:06]: | epoch 147 |   200/  406 batches | rec loss 0.2267 | dis loss 0.4194 |
+[2021-03-27 15:47:13]: | epoch 147 |   400/  406 batches | rec loss 0.1863 | dis loss 0.5382 |
+[2021-03-27 15:47:14]: | end of epoch 147 | time: 16.17s |
+[2021-03-27 15:47:14]: | epoch 148 |     0/  406 batches | rec loss 0.2015 | dis loss 0.3667 |
+[2021-03-27 15:47:22]: | epoch 148 |   200/  406 batches | rec loss 0.2396 | dis loss 0.3385 |
+[2021-03-27 15:47:30]: | epoch 148 |   400/  406 batches | rec loss 0.1971 | dis loss 0.4832 |
+[2021-03-27 15:47:30]: | end of epoch 148 | time: 16.17s |
+[2021-03-27 15:47:31]: | epoch 149 |     0/  406 batches | rec loss 0.2015 | dis loss 0.3657 |
+[2021-03-27 15:47:38]: | epoch 149 |   200/  406 batches | rec loss 0.2087 | dis loss 0.4797 |
+[2021-03-27 15:47:46]: | epoch 149 |   400/  406 batches | rec loss 0.1954 | dis loss 0.4741 |
+[2021-03-27 15:47:47]: | end of epoch 149 | time: 16.15s |
+[2021-03-27 15:47:47]: | epoch 150 |     0/  406 batches | rec loss 0.2275 | dis loss 0.3520 |
+[2021-03-27 15:47:55]: | epoch 150 |   200/  406 batches | rec loss 0.2402 | dis loss 0.3901 |
+[2021-03-27 15:48:03]: | epoch 150 |   400/  406 batches | rec loss 0.2397 | dis loss 0.4488 |
+[2021-03-27 15:48:03]: | end of epoch 150 | time: 16.15s |
+[2021-03-27 15:48:03]: | epoch 151 |     0/  406 batches | rec loss 0.2103 | dis loss 0.3796 |
+[2021-03-27 15:48:11]: | epoch 151 |   200/  406 batches | rec loss 0.2350 | dis loss 0.3986 |
+[2021-03-27 15:48:19]: | epoch 151 |   400/  406 batches | rec loss 0.2039 | dis loss 0.4208 |
+[2021-03-27 15:48:19]: | end of epoch 151 | time: 16.18s |
+[2021-03-27 15:48:20]: | epoch 152 |     0/  406 batches | rec loss 0.2027 | dis loss 0.3115 |
+[2021-03-27 15:48:28]: | epoch 152 |   200/  406 batches | rec loss 0.2491 | dis loss 0.3661 |
+[2021-03-27 15:48:35]: | epoch 152 |   400/  406 batches | rec loss 0.1874 | dis loss 0.4493 |
+[2021-03-27 15:48:36]: | end of epoch 152 | time: 16.16s |
+[2021-03-27 15:48:36]: | epoch 153 |     0/  406 batches | rec loss 0.1997 | dis loss 0.3821 |
+[2021-03-27 15:48:44]: | epoch 153 |   200/  406 batches | rec loss 0.2102 | dis loss 0.3843 |
+[2021-03-27 15:48:52]: | epoch 153 |   400/  406 batches | rec loss 0.1832 | dis loss 0.4589 |
+[2021-03-27 15:48:52]: | end of epoch 153 | time: 16.17s |
+[2021-03-27 15:48:53]: | epoch 154 |     0/  406 batches | rec loss 0.2114 | dis loss 0.3576 |
+[2021-03-27 15:49:00]: | epoch 154 |   200/  406 batches | rec loss 0.2388 | dis loss 0.3747 |
+[2021-03-27 15:49:08]: | epoch 154 |   400/  406 batches | rec loss 0.2174 | dis loss 0.4535 |
+[2021-03-27 15:49:09]: | end of epoch 154 | time: 16.17s |
+[2021-03-27 15:49:09]: | epoch 155 |     0/  406 batches | rec loss 0.1970 | dis loss 0.3162 |
+[2021-03-27 15:49:17]: | epoch 155 |   200/  406 batches | rec loss 0.2296 | dis loss 0.3784 |
+[2021-03-27 15:49:25]: | epoch 155 |   400/  406 batches | rec loss 0.1687 | dis loss 0.4533 |
+[2021-03-27 15:49:25]: | end of epoch 155 | time: 16.15s |
+[2021-03-27 15:49:25]: | epoch 156 |     0/  406 batches | rec loss 0.1985 | dis loss 0.3441 |
+[2021-03-27 15:49:33]: | epoch 156 |   200/  406 batches | rec loss 0.2244 | dis loss 0.3384 |
+[2021-03-27 15:49:41]: | epoch 156 |   400/  406 batches | rec loss 0.1716 | dis loss 0.4202 |
+[2021-03-27 15:49:41]: | end of epoch 156 | time: 16.15s |
+[2021-03-27 15:49:42]: | epoch 157 |     0/  406 batches | rec loss 0.1779 | dis loss 0.3582 |
+[2021-03-27 15:49:49]: | epoch 157 |   200/  406 batches | rec loss 0.2422 | dis loss 0.4934 |
+[2021-03-27 15:49:57]: | epoch 157 |   400/  406 batches | rec loss 0.1875 | dis loss 0.3907 |
+[2021-03-27 15:49:58]: | end of epoch 157 | time: 16.15s |
+[2021-03-27 15:49:58]: | epoch 158 |     0/  406 batches | rec loss 0.1723 | dis loss 0.3289 |
+[2021-03-27 15:50:06]: | epoch 158 |   200/  406 batches | rec loss 0.2328 | dis loss 0.4860 |
+[2021-03-27 15:50:14]: | epoch 158 |   400/  406 batches | rec loss 0.1788 | dis loss 0.4447 |
+[2021-03-27 15:50:14]: | end of epoch 158 | time: 16.17s |
+[2021-03-27 15:50:15]: | epoch 159 |     0/  406 batches | rec loss 0.1971 | dis loss 0.2993 |
+[2021-03-27 15:50:23]: | epoch 159 |   200/  406 batches | rec loss 0.2427 | dis loss 0.4424 |
+[2021-03-27 15:50:30]: | epoch 159 |   400/  406 batches | rec loss 0.1954 | dis loss 0.4485 |
+[2021-03-27 15:50:31]: | end of epoch 159 | time: 16.17s |
+[2021-03-27 15:50:31]: | epoch 160 |     0/  406 batches | rec loss 0.1949 | dis loss 0.3078 |
+[2021-03-27 15:50:39]: | epoch 160 |   200/  406 batches | rec loss 0.2039 | dis loss 0.3882 |
+[2021-03-27 15:50:47]: | epoch 160 |   400/  406 batches | rec loss 0.1707 | dis loss 0.4654 |
+[2021-03-27 15:50:47]: | end of epoch 160 | time: 16.19s |
+[2021-03-27 15:50:48]: | epoch 161 |     0/  406 batches | rec loss 0.2150 | dis loss 0.2783 |
+[2021-03-27 15:50:56]: | epoch 161 |   200/  406 batches | rec loss 0.2694 | dis loss 0.4427 |
+[2021-03-27 15:51:04]: | epoch 161 |   400/  406 batches | rec loss 0.1768 | dis loss 0.4180 |
+[2021-03-27 15:51:04]: | end of epoch 161 | time: 16.16s |
+[2021-03-27 15:51:05]: | epoch 162 |     0/  406 batches | rec loss 0.1718 | dis loss 0.3441 |
+[2021-03-27 15:51:12]: | epoch 162 |   200/  406 batches | rec loss 0.2222 | dis loss 0.3449 |
+[2021-03-27 15:51:20]: | epoch 162 |   400/  406 batches | rec loss 0.2297 | dis loss 0.4493 |
+[2021-03-27 15:51:21]: | end of epoch 162 | time: 16.19s |
+[2021-03-27 15:51:21]: | epoch 163 |     0/  406 batches | rec loss 0.1819 | dis loss 0.2866 |
+[2021-03-27 15:51:29]: | epoch 163 |   200/  406 batches | rec loss 0.2124 | dis loss 0.3901 |
+[2021-03-27 15:51:37]: | epoch 163 |   400/  406 batches | rec loss 0.2033 | dis loss 0.5048 |
+[2021-03-27 15:51:37]: | end of epoch 163 | time: 16.18s |
+[2021-03-27 15:51:37]: | epoch 164 |     0/  406 batches | rec loss 0.1936 | dis loss 0.3319 |
+[2021-03-27 15:51:45]: | epoch 164 |   200/  406 batches | rec loss 0.2331 | dis loss 0.4811 |
+[2021-03-27 15:51:53]: | epoch 164 |   400/  406 batches | rec loss 0.1818 | dis loss 0.3961 |
+[2021-03-27 15:51:54]: | end of epoch 164 | time: 16.18s |
+[2021-03-27 15:51:54]: | epoch 165 |     0/  406 batches | rec loss 0.2004 | dis loss 0.3978 |
+[2021-03-27 15:52:02]: | epoch 165 |   200/  406 batches | rec loss 0.2222 | dis loss 0.4159 |
+[2021-03-27 15:52:09]: | epoch 165 |   400/  406 batches | rec loss 0.2027 | dis loss 0.4307 |
+[2021-03-27 15:52:10]: | end of epoch 165 | time: 16.18s |
+[2021-03-27 15:52:10]: | epoch 166 |     0/  406 batches | rec loss 0.2007 | dis loss 0.3425 |
+[2021-03-27 15:52:18]: | epoch 166 |   200/  406 batches | rec loss 0.2288 | dis loss 0.4371 |
+[2021-03-27 15:52:26]: | epoch 166 |   400/  406 batches | rec loss 0.1864 | dis loss 0.3781 |
+[2021-03-27 15:52:26]: | end of epoch 166 | time: 16.21s |
+[2021-03-27 15:52:27]: | epoch 167 |     0/  406 batches | rec loss 0.1803 | dis loss 0.2850 |
+[2021-03-27 15:52:35]: | epoch 167 |   200/  406 batches | rec loss 0.2123 | dis loss 0.4549 |
+[2021-03-27 15:52:42]: | epoch 167 |   400/  406 batches | rec loss 0.1633 | dis loss 0.4849 |
+[2021-03-27 15:52:43]: | end of epoch 167 | time: 16.20s |
+[2021-03-27 15:52:43]: | epoch 168 |     0/  406 batches | rec loss 0.2092 | dis loss 0.2750 |
+[2021-03-27 15:52:51]: | epoch 168 |   200/  406 batches | rec loss 0.2326 | dis loss 0.3749 |
+[2021-03-27 15:52:59]: | epoch 168 |   400/  406 batches | rec loss 0.2008 | dis loss 0.4397 |
+[2021-03-27 15:52:59]: | end of epoch 168 | time: 16.18s |
+[2021-03-27 15:53:00]: | epoch 169 |     0/  406 batches | rec loss 0.2069 | dis loss 0.3326 |
+[2021-03-27 15:53:07]: | epoch 169 |   200/  406 batches | rec loss 0.2447 | dis loss 0.3138 |
+[2021-03-27 15:53:15]: | epoch 169 |   400/  406 batches | rec loss 0.1755 | dis loss 0.4837 |
+[2021-03-27 15:53:16]: | end of epoch 169 | time: 16.32s |
+[2021-03-27 15:53:16]: | epoch 170 |     0/  406 batches | rec loss 0.2252 | dis loss 0.3760 |
+[2021-03-27 15:53:24]: | epoch 170 |   200/  406 batches | rec loss 0.2472 | dis loss 0.3617 |
+[2021-03-27 15:53:32]: | epoch 170 |   400/  406 batches | rec loss 0.2081 | dis loss 0.4560 |
+[2021-03-27 15:53:32]: | end of epoch 170 | time: 16.40s |
+[2021-03-27 15:53:33]: | epoch 171 |     0/  406 batches | rec loss 0.1647 | dis loss 0.3580 |
+[2021-03-27 15:53:41]: | epoch 171 |   200/  406 batches | rec loss 0.2431 | dis loss 0.4912 |
+[2021-03-27 15:53:49]: | epoch 171 |   400/  406 batches | rec loss 0.1697 | dis loss 0.3586 |
+[2021-03-27 15:53:49]: | end of epoch 171 | time: 16.36s |
+[2021-03-27 15:53:50]: | epoch 172 |     0/  406 batches | rec loss 0.2196 | dis loss 0.2944 |
+[2021-03-27 15:53:57]: | epoch 172 |   200/  406 batches | rec loss 0.2342 | dis loss 0.2305 |
+[2021-03-27 15:54:05]: | epoch 172 |   400/  406 batches | rec loss 0.1682 | dis loss 0.3710 |
+[2021-03-27 15:54:06]: | end of epoch 172 | time: 16.31s |
+[2021-03-27 15:54:06]: | epoch 173 |     0/  406 batches | rec loss 0.1791 | dis loss 0.2400 |
+[2021-03-27 15:54:14]: | epoch 173 |   200/  406 batches | rec loss 0.2176 | dis loss 0.3794 |
+[2021-03-27 15:54:22]: | epoch 173 |   400/  406 batches | rec loss 0.1814 | dis loss 0.3546 |
+[2021-03-27 15:54:22]: | end of epoch 173 | time: 16.33s |
+[2021-03-27 15:54:23]: | epoch 174 |     0/  406 batches | rec loss 0.2221 | dis loss 0.3349 |
+[2021-03-27 15:54:30]: | epoch 174 |   200/  406 batches | rec loss 0.2165 | dis loss 0.3352 |
+[2021-03-27 15:54:38]: | epoch 174 |   400/  406 batches | rec loss 0.1844 | dis loss 0.4435 |
+[2021-03-27 15:54:39]: | end of epoch 174 | time: 16.31s |
+[2021-03-27 15:54:39]: | epoch 175 |     0/  406 batches | rec loss 0.2002 | dis loss 0.3079 |
+[2021-03-27 15:54:47]: | epoch 175 |   200/  406 batches | rec loss 0.2208 | dis loss 0.4385 |
+[2021-03-27 15:54:55]: | epoch 175 |   400/  406 batches | rec loss 0.1585 | dis loss 0.4589 |
+[2021-03-27 15:54:55]: | end of epoch 175 | time: 16.34s |
+[2021-03-27 15:54:56]: | epoch 176 |     0/  406 batches | rec loss 0.1867 | dis loss 0.3465 |
+[2021-03-27 15:55:04]: | epoch 176 |   200/  406 batches | rec loss 0.2276 | dis loss 0.4808 |
+[2021-03-27 15:55:11]: | epoch 176 |   400/  406 batches | rec loss 0.1809 | dis loss 0.4272 |
+[2021-03-27 15:55:12]: | end of epoch 176 | time: 16.33s |
+[2021-03-27 15:55:12]: | epoch 177 |     0/  406 batches | rec loss 0.1851 | dis loss 0.3374 |
+[2021-03-27 15:55:20]: | epoch 177 |   200/  406 batches | rec loss 0.2265 | dis loss 0.4924 |
+[2021-03-27 15:55:28]: | epoch 177 |   400/  406 batches | rec loss 0.1694 | dis loss 0.3720 |
+[2021-03-27 15:55:29]: | end of epoch 177 | time: 16.31s |
+[2021-03-27 15:55:29]: | epoch 178 |     0/  406 batches | rec loss 0.1852 | dis loss 0.2760 |
+[2021-03-27 15:55:37]: | epoch 178 |   200/  406 batches | rec loss 0.2162 | dis loss 0.4613 |
+[2021-03-27 15:55:45]: | epoch 178 |   400/  406 batches | rec loss 0.1899 | dis loss 0.3698 |
+[2021-03-27 15:55:45]: | end of epoch 178 | time: 16.31s |
+[2021-03-27 15:55:46]: | epoch 179 |     0/  406 batches | rec loss 0.1817 | dis loss 0.3857 |
+[2021-03-27 15:55:54]: | epoch 179 |   200/  406 batches | rec loss 0.2117 | dis loss 0.4039 |
+[2021-03-27 15:56:01]: | epoch 179 |   400/  406 batches | rec loss 0.1722 | dis loss 0.4093 |
+[2021-03-27 15:56:02]: | end of epoch 179 | time: 16.28s |
+[2021-03-27 15:56:02]: | epoch 180 |     0/  406 batches | rec loss 0.1972 | dis loss 0.3171 |
+[2021-03-27 15:56:10]: | epoch 180 |   200/  406 batches | rec loss 0.2279 | dis loss 0.4538 |
+[2021-03-27 15:56:18]: | epoch 180 |   400/  406 batches | rec loss 0.1827 | dis loss 0.3729 |
+[2021-03-27 15:56:18]: | end of epoch 180 | time: 16.27s |
+[2021-03-27 15:56:19]: | epoch 181 |     0/  406 batches | rec loss 0.2013 | dis loss 0.3131 |
+[2021-03-27 15:56:26]: | epoch 181 |   200/  406 batches | rec loss 0.2210 | dis loss 0.3678 |
+[2021-03-27 15:56:34]: | epoch 181 |   400/  406 batches | rec loss 0.1898 | dis loss 0.4446 |
+[2021-03-27 15:56:35]: | end of epoch 181 | time: 16.25s |
+[2021-03-27 15:56:35]: | epoch 182 |     0/  406 batches | rec loss 0.2090 | dis loss 0.2452 |
+[2021-03-27 15:56:43]: | epoch 182 |   200/  406 batches | rec loss 0.2043 | dis loss 0.4103 |
+[2021-03-27 15:56:51]: | epoch 182 |   400/  406 batches | rec loss 0.1745 | dis loss 0.4189 |
+[2021-03-27 15:56:51]: | end of epoch 182 | time: 16.23s |
+[2021-03-27 15:56:52]: | epoch 183 |     0/  406 batches | rec loss 0.1702 | dis loss 0.3318 |
+[2021-03-27 15:57:00]: | epoch 183 |   200/  406 batches | rec loss 0.2087 | dis loss 0.3947 |
+[2021-03-27 15:57:07]: | epoch 183 |   400/  406 batches | rec loss 0.1702 | dis loss 0.4412 |
+[2021-03-27 15:57:08]: | end of epoch 183 | time: 16.37s |
+[2021-03-27 15:57:08]: | epoch 184 |     0/  406 batches | rec loss 0.1670 | dis loss 0.3102 |
+[2021-03-27 15:57:16]: | epoch 184 |   200/  406 batches | rec loss 0.2117 | dis loss 0.4226 |
+[2021-03-27 15:57:24]: | epoch 184 |   400/  406 batches | rec loss 0.2007 | dis loss 0.4273 |
+[2021-03-27 15:57:24]: | end of epoch 184 | time: 16.39s |
+[2021-03-27 15:57:25]: | epoch 185 |     0/  406 batches | rec loss 0.1886 | dis loss 0.3396 |
+[2021-03-27 15:57:33]: | epoch 185 |   200/  406 batches | rec loss 0.2076 | dis loss 0.3912 |
+[2021-03-27 15:57:41]: | epoch 185 |   400/  406 batches | rec loss 0.1845 | dis loss 0.3909 |
+[2021-03-27 15:57:41]: | end of epoch 185 | time: 16.47s |
+[2021-03-27 15:57:42]: | epoch 186 |     0/  406 batches | rec loss 0.1840 | dis loss 0.2975 |
+[2021-03-27 15:57:50]: | epoch 186 |   200/  406 batches | rec loss 0.2288 | dis loss 0.3624 |
+[2021-03-27 15:57:57]: | epoch 186 |   400/  406 batches | rec loss 0.1836 | dis loss 0.3817 |
+[2021-03-27 15:57:58]: | end of epoch 186 | time: 16.43s |
+[2021-03-27 15:57:58]: | epoch 187 |     0/  406 batches | rec loss 0.1776 | dis loss 0.3426 |
+[2021-03-27 15:58:06]: | epoch 187 |   200/  406 batches | rec loss 0.2370 | dis loss 0.3673 |
+[2021-03-27 15:58:14]: | epoch 187 |   400/  406 batches | rec loss 0.1850 | dis loss 0.4133 |
+[2021-03-27 15:58:15]: | end of epoch 187 | time: 16.41s |
+[2021-03-27 15:58:15]: | epoch 188 |     0/  406 batches | rec loss 0.1854 | dis loss 0.3852 |
+[2021-03-27 15:58:23]: | epoch 188 |   200/  406 batches | rec loss 0.2113 | dis loss 0.3222 |
+[2021-03-27 15:58:31]: | epoch 188 |   400/  406 batches | rec loss 0.1773 | dis loss 0.5016 |
+[2021-03-27 15:58:31]: | end of epoch 188 | time: 16.49s |
+[2021-03-27 15:58:32]: | epoch 189 |     0/  406 batches | rec loss 0.1738 | dis loss 0.3618 |
+[2021-03-27 15:58:40]: | epoch 189 |   200/  406 batches | rec loss 0.2124 | dis loss 0.3696 |
+[2021-03-27 15:58:48]: | epoch 189 |   400/  406 batches | rec loss 0.1731 | dis loss 0.4031 |
+[2021-03-27 15:58:48]: | end of epoch 189 | time: 16.51s |
+[2021-03-27 15:58:49]: | epoch 190 |     0/  406 batches | rec loss 0.1741 | dis loss 0.3750 |
+[2021-03-27 15:58:57]: | epoch 190 |   200/  406 batches | rec loss 0.2254 | dis loss 0.3934 |
+[2021-03-27 15:59:05]: | epoch 190 |   400/  406 batches | rec loss 0.1819 | dis loss 0.4590 |
+[2021-03-27 15:59:05]: | end of epoch 190 | time: 16.46s |
+[2021-03-27 15:59:05]: | epoch 191 |     0/  406 batches | rec loss 0.1755 | dis loss 0.3233 |
+[2021-03-27 15:59:13]: | epoch 191 |   200/  406 batches | rec loss 0.2085 | dis loss 0.4191 |
+[2021-03-27 15:59:21]: | epoch 191 |   400/  406 batches | rec loss 0.1843 | dis loss 0.3851 |
+[2021-03-27 15:59:22]: | end of epoch 191 | time: 16.49s |
+[2021-03-27 15:59:22]: | epoch 192 |     0/  406 batches | rec loss 0.1944 | dis loss 0.2933 |
+[2021-03-27 15:59:30]: | epoch 192 |   200/  406 batches | rec loss 0.2057 | dis loss 0.3838 |
+[2021-03-27 15:59:38]: | epoch 192 |   400/  406 batches | rec loss 0.1981 | dis loss 0.4603 |
+[2021-03-27 15:59:38]: | end of epoch 192 | time: 16.30s |
+[2021-03-27 15:59:39]: | epoch 193 |     0/  406 batches | rec loss 0.2117 | dis loss 0.2170 |
+[2021-03-27 15:59:47]: | epoch 193 |   200/  406 batches | rec loss 0.2436 | dis loss 0.2909 |
+[2021-03-27 15:59:55]: | epoch 193 |   400/  406 batches | rec loss 0.1685 | dis loss 0.3649 |
+[2021-03-27 15:59:55]: | end of epoch 193 | time: 16.50s |
+[2021-03-27 15:59:56]: | epoch 194 |     0/  406 batches | rec loss 0.1808 | dis loss 0.2516 |
+[2021-03-27 16:00:04]: | epoch 194 |   200/  406 batches | rec loss 0.2291 | dis loss 0.3638 |
+[2021-03-27 16:00:12]: | epoch 194 |   400/  406 batches | rec loss 0.1760 | dis loss 0.4542 |
+[2021-03-27 16:00:12]: | end of epoch 194 | time: 16.58s |
+[2021-03-27 16:00:12]: | epoch 195 |     0/  406 batches | rec loss 0.1706 | dis loss 0.2685 |
+[2021-03-27 16:00:20]: | epoch 195 |   200/  406 batches | rec loss 0.2237 | dis loss 0.3151 |
+[2021-03-27 16:00:28]: | epoch 195 |   400/  406 batches | rec loss 0.2029 | dis loss 0.3733 |
+[2021-03-27 16:00:29]: | end of epoch 195 | time: 16.23s |
+[2021-03-27 16:00:29]: | epoch 196 |     0/  406 batches | rec loss 0.2046 | dis loss 0.2477 |
+[2021-03-27 16:00:37]: | epoch 196 |   200/  406 batches | rec loss 0.2191 | dis loss 0.3915 |
+[2021-03-27 16:00:45]: | epoch 196 |   400/  406 batches | rec loss 0.1828 | dis loss 0.3373 |
+[2021-03-27 16:00:45]: | end of epoch 196 | time: 16.31s |
+[2021-03-27 16:00:46]: | epoch 197 |     0/  406 batches | rec loss 0.1683 | dis loss 0.3399 |
+[2021-03-27 16:00:53]: | epoch 197 |   200/  406 batches | rec loss 0.2208 | dis loss 0.2687 |
+[2021-03-27 16:01:01]: | epoch 197 |   400/  406 batches | rec loss 0.2039 | dis loss 0.3907 |
+[2021-03-27 16:01:02]: | end of epoch 197 | time: 16.23s |
+[2021-03-27 16:01:02]: | epoch 198 |     0/  406 batches | rec loss 0.2047 | dis loss 0.2424 |
+[2021-03-27 16:01:10]: | epoch 198 |   200/  406 batches | rec loss 0.2282 | dis loss 0.3443 |
+[2021-03-27 16:01:18]: | epoch 198 |   400/  406 batches | rec loss 0.1689 | dis loss 0.3593 |
+[2021-03-27 16:01:18]: | end of epoch 198 | time: 16.23s |
+[2021-03-27 16:01:19]: | epoch 199 |     0/  406 batches | rec loss 0.1848 | dis loss 0.2460 |
+[2021-03-27 16:01:26]: | epoch 199 |   200/  406 batches | rec loss 0.2180 | dis loss 0.3255 |
+[2021-03-27 16:01:34]: | epoch 199 |   400/  406 batches | rec loss 0.1922 | dis loss 0.3451 |
+[2021-03-27 16:01:35]: | end of epoch 199 | time: 16.24s |
+[2021-03-27 16:01:35]: Start eval process.

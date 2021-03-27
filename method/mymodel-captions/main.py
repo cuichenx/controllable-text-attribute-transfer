@@ -12,6 +12,8 @@ from torch import optim
 import numpy
 import matplotlib
 from matplotlib import pyplot as plt
+from sklearn.manifold import TSNE
+import pylab
 from bleu import *
 
 # Import your model files.
@@ -56,10 +58,11 @@ parser.add_argument('--label_size', type=int, default=1)
 
 
 args = parser.parse_args()
-args.if_load_from_checkpoint = False
+# args.if_load_from_checkpoint = False
 #
-# args.if_load_from_checkpoint = True
-# args.checkpoint_name = "1557891887"
+args.if_load_from_checkpoint = True
+args.plot_tsne = True
+args.checkpoint_name = "1616871925"
 
 
 ######################################################################################
@@ -246,6 +249,101 @@ def eval_iters(ae_model, dis_model):
     return
 
 
+def fgim_step(model, origin_data, target, ae_model, max_sequence_length, id_bos,
+                id2text_sentence, id_to_word, gold_ans, epsilon, step):
+    """Fast Gradient Iterative Methods"""
+
+    dis_criterion = nn.BCELoss(size_average=True)
+
+    it = 0
+    data = origin_data
+    while it < step:
+
+        data = to_var(data.clone())  # (batch_size, seq_length, latent_size)
+        # Set requires_grad attribute of tensor. Important for Attack
+        data.requires_grad = True
+        output = model.forward(data)
+        loss = dis_criterion(output, target)
+        model.zero_grad()
+        loss.backward()
+        data_grad = data.grad.data
+        data = data - epsilon * data_grad
+        it += 1
+        epsilon = epsilon * 0.9
+
+        generator_id = ae_model.greedy_decode(data,
+                                                max_len=max_sequence_length,
+                                                start_id=id_bos)
+        generator_text = id2text_sentence(generator_id[0], id_to_word)
+        print("| It {:2d} | dis model pred {:5.4f} |".format(it, output[0].item()))
+        print(generator_text)
+
+    return data, generator_id
+
+
+def tsne_plot_representation(latents, labels):
+    """Plot a 2-D visualization of the learned representations using t-SNE."""
+    mapped_X = TSNE(n_components=2).fit_transform(latents)
+    pylab.figure(figsize=(12,12))
+    
+    neg_X = mapped_X[numpy.where(labels == 0)]
+    pos_X = mapped_X[numpy.where(labels == 1)]
+    pylab.scatter(neg_X[:, 0], neg_X[:, 1], c='blue', marker='.', label='negative')
+    pylab.scatter(pos_X[:, 0], pos_X[:, 1], c='red', marker='.', label='positive')
+    pylab.legend()
+
+    pylab.xlim(mapped_X[:, 0].min(), mapped_X[:, 0].max())
+    pylab.ylim(mapped_X[:, 1].min(), mapped_X[:, 1].max())
+    pylab.savefig("tsne.png")
+
+def plot_tsne(ae_model, dis_model):
+    epsilon = 2
+    step = 1
+    eval_data_loader = non_pair_data_loader(
+        batch_size=1, id_bos=args.id_bos,
+        id_eos=args.id_eos, id_unk=args.id_unk,
+        max_sequence_length=args.max_sequence_length, vocab_size=args.vocab_size
+    )
+    eval_file_list = [
+        args.data_path + 'sentiment.test.0',
+        args.data_path + 'sentiment.test.1',
+    ]
+    eval_label_list = [
+        [0],
+        [1],
+    ]
+    eval_data_loader.create_batches(eval_file_list, eval_label_list, if_shuffle=False)
+    gold_ans = load_human_answer(args.data_path)
+    assert len(gold_ans) == eval_data_loader.num_batch
+
+    ae_model.eval()
+    dis_model.eval()
+    latents, labels = [], []
+    for it in range(eval_data_loader.num_batch):
+        batch_sentences, tensor_labels, \
+        tensor_src, tensor_src_mask, tensor_tgt, tensor_tgt_y, \
+        tensor_tgt_mask, tensor_ntokens = eval_data_loader.next_batch()
+        print("------------%d------------" % it)            
+        print(id2text_sentence(tensor_tgt_y[0], args.id_to_word))
+        print("origin_labels", tensor_labels.item())
+
+        latent, out = ae_model.forward(tensor_src, tensor_tgt, tensor_src_mask, tensor_tgt_mask)
+
+        # Define target label
+        target = get_cuda(torch.tensor([[1.0]], dtype=torch.float))
+        if tensor_labels[0].item() > 0.5:
+            target = get_cuda(torch.tensor([[0.0]], dtype=torch.float))
+
+        modified_latent, modified_text = fgim_step(dis_model, latent, target, ae_model, args.max_sequence_length, args.id_bos,
+                                    id2text_sentence, args.id_to_word, gold_ans[it], epsilon, step)
+        latents.append(modified_latent)
+        labels.append(tensor_labels.item())
+
+    latents = torch.cat(latents, dim=0).detach().cpu().numpy()
+    labels = numpy.array(labels)
+
+    tsne_plot_representation(latents, labels)
+
 
 if __name__ == '__main__':
     preparation()
@@ -265,7 +363,10 @@ if __name__ == '__main__':
     else:
         train_iters(ae_model, dis_model)
 
-    eval_iters(ae_model, dis_model)
+    if args.plot_tsne:
+        plot_tsne(ae_model, dis_model)
+    else:
+        eval_iters(ae_model, dis_model)
 
     print("Done!")
 

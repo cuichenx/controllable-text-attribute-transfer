@@ -56,9 +56,9 @@ parser.add_argument('--label_size', type=int, default=1)
 
 args = parser.parse_args()
 
-# args.if_load_from_checkpoint = False
+args.if_load_from_checkpoint = False
 # args.if_load_from_checkpoint = True
-# args.checkpoint_name = "1557667911"
+args.checkpoint_name = "1557667911"
 
 
 ######################################################################################
