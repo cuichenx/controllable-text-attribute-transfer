@@ -1,5 +1,6 @@
 import os
 import nltk
+nltk.download('punkt')
 
 
 def buid_dict_file():
